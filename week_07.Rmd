@@ -1,0 +1,35 @@
+---
+title: "Summaries week 7"
+subtitle: "Phonetics and Phonology of Bilingualism"
+author: "Meritxell Feliu Ribas"
+date: "2024-03-01"
+output: pdf_document
+---
+
+Solo hacer resúmenes de los artículos. De los capítulos, NO. Máx. 1 página en total. Debería ser un parrafito por artículo (en plan abstract): han hecho esto, esto es lo que hemos aprendido, etc. Después, podemos poner preguntas, bullet points con otra info, etc. 
+
+
+# Reading 1: Gordon and Roettger (2017)
+Gordon and Roettger (2017) examined potential acoustic correlates of word stress in different languages. To do so, they created a corpus of 110 studies that included a total of 75 languages and varieties with different characteristics (genetic affiliation, tone, etc.) and distributed across the five continents. Importantly, not all the analyzed studies included the same acoustic dimensions and not all of them were similarly measured. The results from their cross-linguistic analysis indicate that there are different parameters that may signal stress, such as duration, F0, intensity, and spectral tilt, being duration the most statistically significant acoustic exponent of stress. These findings suggest that stress manifest differently across languages. 
+
+## Some questions:
++ 
+
+
+**Reference:** Gordon, M. and T. Roettger (2017). “Acoustic correlates of word stress: A cross-linguistic survey". In:
+*Linguistics Vanguard* 3.1. ISSN: 2199-174X.
+
+
+
+# Reading 2: Ortega-Llebarria and Prieto (2009)
+I am the discussion leader for this article.
+
+
+**Reference:** Ortega-Llebaria, M. and P. Prieto (2009). “Perception of word stress in Castilian Spanish: The effects of sentence intonation and vowel type". In: *Phonetics and Phonology: Interactions and interrelations*. Ed. by M. Vigário, S. Frota and M. J. Freitas. Amsterdam Studies in the Theory and History of Linguistic Science IV: Current Issues in Linguistic Theory (CILT): 306. Amsterdam, Netherlands: John Benjamins, pp. 35–50.
+
+
+
+# Reading 3: Kim (2019)
+
+
+**Reference:** “Discrepancy between heritage speakers’ use of suprasegmental cues in the perception and production of Spanish lexical stress". In: *Bilingualism: Language and Cognition*, pp. 1–18.

@@ -6,30 +6,129 @@ date: "2024-03-01"
 output: pdf_document
 ---
 
-Solo hacer resúmenes de los artículos. De los capítulos, NO. Máx. 1 página en total. Debería ser un parrafito por artículo (en plan abstract): han hecho esto, esto es lo que hemos aprendido, etc. Después, podemos poner preguntas, bullet points con otra info, etc. 
-
-
 # Reading 1: Gordon and Roettger (2017)
 Gordon and Roettger (2017) examined potential acoustic correlates of word stress in different languages. To do so, they created a corpus of 110 studies that included a total of 75 languages and varieties with different characteristics (genetic affiliation, tone, etc.) and distributed across the five continents. Importantly, not all the analyzed studies included the same acoustic dimensions and not all of them were similarly measured. The results from their cross-linguistic analysis indicate that there are different parameters that may signal stress, such as duration, F0, intensity, and spectral tilt, being duration the most statistically significant acoustic exponent of stress. These findings suggest that stress manifest differently across languages. 
 
-## Some questions:
-+ 
-
-
-**Reference:** Gordon, M. and T. Roettger (2017). “Acoustic correlates of word stress: A cross-linguistic survey". In:
-*Linguistics Vanguard* 3.1. ISSN: 2199-174X.
+**Reference:** Gordon, M. and T. Roettger (2017). “Acoustic correlates of word stress: A cross-linguistic survey". In: *Linguistics Vanguard* 3.1. ISSN: 2199-174X.
 
 
 
 # Reading 2: Ortega-Llebarria and Prieto (2009)
 I am the discussion leader for this article.
 
-
-**Reference:** Ortega-Llebaria, M. and P. Prieto (2009). “Perception of word stress in Castilian Spanish: The effects of sentence intonation and vowel type". In: *Phonetics and Phonology: Interactions and interrelations*. Ed. by M. Vigário, S. Frota and M. J. Freitas. Amsterdam Studies in the Theory and History of Linguistic Science IV: Current Issues in Linguistic Theory (CILT): 306. Amsterdam, Netherlands: John Benjamins, pp. 35–50.
+**Reference:** Ortega-Llebaria, M. and P. Prieto (2009). “Perception of word stress in Castilian Spanish: The effects of sentence intonation and vowel type". In: *Phonetics and Phonology: Interactions and interrelations*. Ed. by M. Vigário, S. Frota and M. J. Freitas. Amsterdam, Netherlands: John Benjamins, pp. 35–50.
 
 
 
 # Reading 3: Kim (2019)
-
+Kim (2019) analyzed how Spanish heritage speakers make use of suprasegmental cues to both perceive and produce lexical stress in Spanish. She conducted two experiments with stress minimal pairs (one for perception and one for production) with 24 Spanish heritage speakers from Mexican heritage, 24 Mexican Spanish monolinguals, and 20 English L2 learners of Spanish. The patterns observed in both experiments were different: whereas in the perception task heritage speakers used the same suprasegmental information cues (e.g., duration, pitch) as monolinguals and were sensitive to different stress correlates, in the production task heritage speakers' results aligned more closely to those of the L2 learners, as they could not clearly distinguish between paroxytones and oxytones. Importantly, monolinguals' and L2 learners' results were consistent in both experiments. These findings suggest that the relationship between perception and production may not be automatic, that early exposure to heritage language is beneficial in the perception of sounds and that its use is key to achieve target-like production. 
 
 **Reference:** “Discrepancy between heritage speakers’ use of suprasegmental cues in the perception and production of Spanish lexical stress". In: *Bilingualism: Language and Cognition*, pp. 1–18.
+
+
+
+# Notes on Ortega-Llebarria and Prieto (2009) 
+  * General topic: How Castilian Spanish speakers perceive the word stress
+  
+  * More specific: Which acoustic cues and cue-interaction Castilian Spanish speakers use to perceive primary stress in unaccented contexts
+  
+  * What is the main 'novelty' in Ortega-Llebarria and Prieto (2009)?: First study to analyze the perception of word stress in unaccented contexts.
+  
+  * Background lit.:
+    * Llisterri et al. (2004): perception of stress in one word declarative utterances (pitch accent on the stressed syllable + lengthening on the last syllable). Pitch was the main cue to stress, followed by duration and intensity (these two had to be processed together with pitch accent to perceive stress, they couldn't be alone)
+    * How do speakers of different languages use duration, intensity, and vowel reduction in the production and perception of stress while controlling for the potential effects of accent?
+        * Huss (1978): word minimal pairs with no vowel reduction - perception and production of word stress. Production of small duration and intensity differences between vowels with primary and secondary stress; no perception of these differences. Conclusion: English speakers can't perceive primary stressed based solely on duration and intensity differences in the absence of pitch-accents and vowel reductions (then, pitch accent and vowel reduction are necessary?)
+        * Campbell and Beckman (1997): compared the production of primary and secondary stress in different pitch-accent contexts. Results: the spectral balance didn't differentiate vowels with primary and secondary stress in the absence of a pitch accent (-> What is  the role of pitch accent?). Conclusion: no direct acoustic correlates for stress
+    * How are stressed syllables produces in deaccented contexts?
+        * Manolescu et al. (2009): production of stressed syllables vs unstressed syllables in different types of sentences by Romanian speakers. Results: stressed syllables were always longer -> Duration as a correlate of stress
+        * Sluijter et al. (1996, 1997): In unaccented contexts, Dutch speakers produced vowels with primary stress with longer durations, flatter spectral tilts, and fuller vowel qualities (they have vowel reduction). They also used duration and spectral tilt cues to perceive primary stress
+    * Ortega-Llebarria and Prieto (2009): results: Catalan speakers relied on different cues (cluster of cues), whose weights change according to the vowel, to perceive primary stress. These cues were dependent on the vowel: [a] vowel quality, duration, and intensity; [i] duration and intensity. However, not a single cue was absolutely necessary to perceive stress -> Use of different cues based on their 'availability' -> Word stress is expressed by a cluster of acoustic correlates.
+    * Ortega-Llebaria (2006); Ortega-Llebarria & Prieto (submitted). In Castilian Spanish, it seems that word stress is also expressed by a cluster of acoustic correlates. In the case of Spanish, though, these correlates work independently of vowel reduction patterns, as there is no vowel reduction (a diferencia del catalán). Castilian Spanish speaker produced stressed and unstressed vowels with the same qualities, but the former had longer durations and louder intensities. BUT duration and intensity dues had different weights according to sentence intonation (e.g., louder in reporting clauses than declarative sentences)and vowel type (e.g., larger in [o] than [i]) -> THIS IS PRODUCTION
+        * This paper is the continuation of Ortega-Llebarria & Prieto (submitted); the focus is on perception (and NOT production)
+  
+  * Key terms:
+    * Primary vs Secondary stress: primary = fully stressed vowels, secondary = unreduced unstressed vowels
+    * Accented vs Unaccented contexts: unaccented = no pitch accent is present
+    * Segmental information: vowel quality
+    * Suprasegmental information: duration
+    * Prominence hierarchy: the hierarchy of 'stronger' cues that help predict word accent? How would this hierarchy look like? Is it the same for all languages? (NOPE! -> in Dutch duration and intensity are stronger cues to perceive primary stress (there is vowel reduction, but it is not 'that' important); in English, it is vowel reduction)
+    * Duration: la duración de una vocal
+    * Intensity: la energía de una vocal
+    * Spectral tilt: medida de la distribución relativa de la energía espectral de frequencias más bajas a más altas
+  
+  *RQs:
+    1) ¿Pueden los hablantes de español percibir el contraste de estrés basado en pistas de duración e intensidad en contextos donde no hay pitch accent ni reducción vocálica?
+    2) ¿Cómo interactuan las pistas de duración e intensidad?
+    3) ¿Cómo usan los hablantes las pistas de duración para percibir el estrés entre vocales? ¿confian más en las pistas de duración para percibir el estrés en la [i] tal y como pasa en los patrones de producción?
+    4) Dado que los resultados de producción indican que la intensidad general es un correlato más fuerte del estrés que la inclinación espectral (spectral tilt), ¿confian más los oyentes en las pistas de intensidad general que en la inclinación espectral para percibir el estrés? 
+    
+  * Methodology
+    * 20 native speakers of Castilian Spanish, divided into 2 groups: A (mama) and B (mimi)
+    * Task: listen and identify oxytone (agudas) words in unaccented sentences (they had to press the space bar as soon as they heard the oxytone mamá or mimí)
+    * Stimuli: 175 aural sentences "Hola - saluda X contenta"
+        * target words (mama-mamá; mimi-mimí) varied in two bi-dimensional paroxytone-oxytone continua: 1) duration and spectral tilt, 2) duration and overall intensity -> manipulation of the cues duration, overall intensity, and spectral tilt separately
+        * Continuum:
+            1) clear paroxytone (llanas)
+            2) paroxytone
+            3) neutral
+            4) oxytone
+            5) clear oxytone (agudas)
+  
+  * Results
+    * Spanish speakers do perceive stress in reporting sentences -> Stress can be perceived in the absence of pitch accents and vowel reduction patterns
+    * Cues to stress depend on vowel type
+    * Perception of stress is based on a cluster of cues, mainly duration and overall intensity. Importantly, their weights changed according to vowel type:
+      * main cue for [a] = duration / when duration cues were ambiguous, they relied heavily on intensity / both duration and intensity contribute to the perception in an additive manner
+      * main cue for [i] = overall intensity / they do not rely on duration (intensity exclusively) / when intensity cues were ambiguous, they did not rely on duration instead and tend to hear oxytones / they stop using intensity cues when there are not clear duration cues / no additive relationship between intensity and duration
+    * Spectral tilt had no effects
+    * Duration and overall intensity: see results in point 3
+    * Duration and spectral tilt: similar patterns in both vowels / duration has a stronger effect / no effect of spectral tilt
+  
+  * Discussion
+    * Even in the absence of pitch-accents and vowel reduction patterns in the speech signal, Spanish speakers still detect the stress contrast on a basis of duration and overall intensity differences (while ignoring the spectral tilt)
+    * This confirms that at the lower levels of the prosodic hierarchy, stress in Spanish has its own phonetic material which works independently of vowel reduction patterns
+    * The use of the duration and overall intensity cues to perceive word stress differs across vowels
+  
+  * Potential questions:
+    * What kind of studies are described in the background literature? How do they inform the present study?
+    * What have previous studies on the perception of word stress found?
+    * What is the topic of analysis? 
+    * Why do they focus on the vowels [a] and [i]? Why unaccented contexts?
+    * Why did the authors choose to manipulate duration, overall intensity, and spectral tilt as potential cues to stress?
+    * What might explain the differential perception of stress contrast depending on vowel type ([a] vs. [i])?
+    * We can consider this study as a continuation of Ortega-Llebarria and Prieto (2009) (discussed in the lit. review). What similarities and/or differences do the authors find regarding duration and intensity dues in the production and perception patterns?
+    * What are your main takeaways of this study? Why is it important? How do the findings in this study contribute to our knowledge of stress perception/production? Stress has its own phonetic material in unaccented contexts, which is language specific (it differs according to the phonology of each language); e.g., Spanish (duration and overall intensity), Catalan (duration, overall intensity, and vowel reduction), Dutch (duration, spectral tilt, and vowel reduction), etc. 
+      -> Defining stress is challenging due to its complex nature; 
+      -> it cannot simply be viewed as a structural element without any phonetic significance
+      -> it cannot be easily identified using universal cross-linguistic cues
+      -> perception of stress seems to rely on a combination of various cues that contribute to the rhythm of speech
+      -> it varies according to the phonology of each language
+  * What are the implications of these findings for the teaching and learning of Spanish pronunciation?
+  * How might future research build upon these findings to further investigate stress perception in Spanish and other languages?
+
+
+
+
+
+What are the autors’ research questions?
+Who are the study participants?
+How did the authors’ collect the data?
+How did the authors’ code the data?
+1. What were the authors’ findings for their categorical coding?
+2. What were the authors’ findings for their continuous coding?
+3. What connections do the authors’ make to their findings in the
+discussion section?
+4. What is the overall conclusion presented by the authors?
+1. What is the connection between this study and Usage-Based
+Theory?
+2. What do the authors’ finding tell us about how variable forms are
+learned by L2 speakers?
+3. What do the authors’ finding tell us about forms that possess
+social meaning are learned by L2 speakers?
+◦ What personal experiences have you had with language socialization?
+◦ How does this notion of language socialization relate to previous class discussion of social categories like gender?
+◦ Thinking about your research interests, what are some possible research questions that you have related to language socialization?
+1. According to the authors, what is meant by “identity” and “agency” in SLA, and what are their potential roles in language learning? Discuss examples from the text, other papers you have read, your own experiences.
+2. According to the authors, what is the potential role of emotion in language learning? Discuss examples from the text, other papers you have read, your own experiences.
+3. According to the authors, what is meant by “motivation” and “investment” in SLA, and what are their potential roles in language learning? Discuss examples from the text, other papers you have read, your own experiences.
+4. How do these concepts relate to any of the content we have explored in class thus far?

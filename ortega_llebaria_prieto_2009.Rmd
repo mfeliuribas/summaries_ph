@@ -84,7 +84,7 @@ output:
 ---
 # Some discussion questions
 + What might explain the differential perception of stress contrast depending on vowel type ([a] vs. [i])?
-+ We can consider this study as a continuation of Ortega-Llebarria and Prieto (underreview?, 2009?) (discussed in the lit. review). What similarities and/or differences do the authors find regarding duration and intensity dues in the production and perception patterns?
++ We can consider this study as a continuation of Ortega-Llebaria and Prieto (underreview?, 2009?) (discussed in the lit. review). What similarities and/or differences do the authors find regarding duration and intensity cues in the production and perception patterns?
 + What are your main takeaways of this study? 
 + What did you (dis)like about this study?
 + Why is this study important? 

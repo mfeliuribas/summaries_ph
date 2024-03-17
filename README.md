@@ -1,1 +1,2 @@
-Summaries of the readings from 'Phonetics and Phonology of Bilingualism' (Prof. Joseph Casillas)
+
+Summaries of the readings and the discussion leader presentations from 'Phonetics and Phonology of Bilingualism' (Prof. Joseph Casillas)

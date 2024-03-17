@@ -34,7 +34,7 @@ This is a chapter from the book *Key Issues in the Teaching of Spanish Pronuncia
       * Asimismo, llaman a los ML de la L2, L2 native speakers, which also confusing for me. 
   
   * Background lit.:
-    * Infants begin to perceive speech in a languge-specific way during the first year of life, when they develop perceptual processes specialized for the ambient language (when they are born, they can discriminate all sounds, from all languages) -> Shift from a language-general to a language-specific pattern of perception 
+    * Infants begin to perceive speech in a language-specific way during the first year of life, when they develop perceptual processes specialized for the ambient language (when they are born, they can discriminate all sounds, from all languages) -> Shift from a language-general to a language-specific pattern of perception 
     * It has been proposed that, as people grow older, L2 learning is hindered by a loss of neuroplasticity that accompanies normal neural maturation -> L2 speech acquisition is impeded by the acquisition of the L1 phonological system.
     * Native Language Magnet theory (NLM theory): 
         * tries to explain what exactly happens (see bullet points above) and why

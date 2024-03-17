@@ -1,0 +1,146 @@
+---
+title: "Early learners' discrimination of second-language vowels"
+subtitle: "Anders Højen & James E. Flege (2006)"
+author: "Meritxell Feliu Ribas"
+institute: "Rutgers University"
+date: "2024/03/18"
+output:
+  xaringan::moon_reader:
+    css: [default, rutgers, rutgers-fonts]
+---
+
+```{r setup, include= FALSE, echo=FALSE, fig.align = "right"}
+library(here)
+
+knitr::include_graphics("images/vowels_eng_span.png")
+
+# NO FUNCIONA. SE TIENE QUE PONER A LA DERECHA
+```
+
+# Summary 
+
++ **General topic**: Perception of L2 sounds 
+
++ **More specific**: The discrimination of English vowels by L1 Spanish - L2 English early *bilinguals* (learners)
+
+---
+
+# Some notes on speech perception
+
++ There is a **shift** from a language-general **to a language-specific pattern of speech perception** during infancy 
+
++ It may be due to a **loss of neuroplasticity** that accompanies normal neural maturation
+
++ The **Native Language Magnet theory** (NLM theory) tries to explain what exactly happens and why and holds that:
+    + infants categorize sound patterns into a **“perceptual map"**
+    + babies create **perfect examples of sounds** with a target area around each sound
+    + these **prototypes** “tune” the child’s brain to the native language 
+    + once a sound category exists in memory, “it functions like a **magnet for other sounds**”
+    + the identification of L1 speech sounds become more robust; L2 categories may become difficult
+  
++ Can this "perceptual map" (or sound map) be reversed according to the studies discussed in the lit. review section?
+
+---
++ **Can this "perceptual map" (or sound map) be reversed** according to the studies discussed in the lit. review section?
+  + **No?** **&rarr;** Bosch et al. (2000), Pallier et al. (1997, 2001), Sebastián-Gallés and Soto-Faraco (1999), Sebastián-Gallés et al. (2005):
+      + **Differences** in the discrimination of /e/ vs /ɛ/ by early L2 learners of Catalan vs Catalan native speakers. SO early learners... 
+          + are unlikely to perceive L2 vowels in a nativelike way after perceptual attunement to the L1 phonological system
+          + and exhibit a lack of behavioral plasticity with respect to learning to perceive contrastive phonemes of an L2, even under conditions of early and extensive exposure
+
+  + **Yes?** **&rarr;** Flege et al. (1999), Flege and MacKay (2004):
+      + **Similar results** in a discrimination task of English vowels by low-L1-use and English ML groups (high-L1-use group differed marginally from MLs). SO early learners...
+          + may closely resemble L2 native speakers, if they use their L1 infrequently
+  
+  + **Conflicting results!**
+
+---
+# The present study: Højen & Flege (2006)
+
++ **Previous research** showed two different patterns: 
+  1. Early learners differed significantly from the control group (L2 native speakers) **&rarr;** They are unlikely to perceive L2 vowels in a nativelike way
+  2. Early learners did not significantly differ from the control group (L2 native speakers) **&rarr;** They may closely resemble L2 native speakers, if they use their L1 infrequently
+  
++ **Goal**: to examine the discrimination of English vowels by L1 Spanish - L2 English early *bilinguals* (learners)
+  + But... What is the **novelty** of this study? 
+  + And what is the **reasoning** behind this change in methods?
+
+---
+# Experiment 1
+
++ **Aim**: develop an AXB test that would result in higher (near-ceiling) scores for vowels heard as distinct phonemes and lower (near-chance) scores for foreign vowels that might be heard as belonging to the same category in the L1
+  + **Why** do they do it? Why is this important? 
+
++ What is an **AXB test**?
+  + A type of perceptual discrimination task
+  + Participants listen to three stimuli: A, X, and B
+  + They determine whether X sounds more like A or B
+        
++ **Participants**: 
+  + 45 English monolinguals
+  + 3 native speakers of Danish
+
+---
++ **Stimuli**: Danish nonwords (CCVC) with 4 vowel contrasts:
+  + easy contrast: [] - [] -> /gl_s/
+  + difficult contrasts: 
+      + [] - [] -> /fl_s/
+      + [] - [] -> /kl_s/
+      + [] - [] -> /tj_s/
+  + 3 conditions:
+      + blocked (small stimulus range; declarative sentences)
+      + mixed (large stimulus range; declarative sentences)
+      + mixed/F0 (large stimulus range + variation in F0; declarative and interrogative sentences, different F0 patterns) 
+          
+          + **Why** do they include these 3 conditions?
+                    
++ **Procedure**:
+  + 64 trials x 4 contrasts = 256 AXB trials
+  + 3 stimuli 
+  + push 1-2 or 2-3 button (1-2 if 2 was like 1, 2-3 if 2 was like 3)
+  + practice block with feedback
+
+---
++ **Results**:
+  + Danish MLs had higher scores in all conditions (easy and difficult)
+  + English MLs had higher scores in the easy condition, and substantially lower scores in the difficult conditions, but still above chance:
+      + Scores were lower in the mixed/F0 condition compared to the blocked condition
+      + Scores were lower in F0 incongruent trials and higher in F0 congruent trials
+      + No significant differences between the blocked and the mixed conditions **&rarr;** Potential effect of F0
+  
+  + What **condition** do they then decide to use in Experiment 2?
+
+---
+# Experiment 2
+
++ **Aim**: 
+    + Analyze the discrimination of English vowels by adult L1 Spanish - L2 early learners of English
+    + Compare it to that of English monolinguals (and Spanish monolinguals)
+
++ **Participants** (n=60): 
+  + 20 L1 Spanish - L2 English early bilinguals
+  + 20 English monolinguals
+  + 20 Spanish monolinguals
+
++ **Materials**:
+  + (Language background questionnaire)
+  + (Production task)
+  + Perception task
+
+---
++ **Stimuli**: English nonwords (CCVC) with 4 vowel contrasts:
+  + Easy contrast: [i] - [u] -> /gl_s/
+  + Difficult contrasts: 
+      + [ʊ] - [oʊ]* -> /fl_s/
+      + [ɪ] - [eɪ]* -> /kl_s/
+      + [ɑ] - [ʌ] -> /tʃ_s/
+      
+      ![Vowel chart English vs Spanish](images/vowels_eng_span.png)
+
+  + Declarative (low-f0) and interrogative sentences (high-f0)
+  + Neutral f0 type and incongruent f0 type
+                    
++ **Procedure**:
+  + 64 trials x 4 contrasts = 256 AXB trials
+  + 3 stimuli 
+  + push 1-2 or 2-3 button (1-2 if 2 was like 1, 2-3 if 2 was like 3)
+  + practice block with feedback

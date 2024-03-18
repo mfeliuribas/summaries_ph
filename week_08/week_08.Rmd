@@ -31,7 +31,7 @@ This is a chapter from the book *Key Issues in the Teaching of Spanish Pronuncia
   
   * More specific: The discrimination of English vowels by L1 Spanish - L2 English early bilinguals (learners*)
       * Me parece curioso el hecho de que los llamen "early learners" y no "early bilinguals". Sé que es solo terminología, pero bueno... 
-      * Asimismo, llaman a los ML de la L2, L2 native speakers, which also confusing for me. 
+      * Asimismo, llaman a los ML de la L2, L2 native speakers, which also was confusing for me. 
   
   * Background lit.:
     * Infants begin to perceive speech in a language-specific way during the first year of life, when they develop perceptual processes specialized for the ambient language (when they are born, they can discriminate all sounds, from all languages) -> Shift from a language-general to a language-specific pattern of perception 

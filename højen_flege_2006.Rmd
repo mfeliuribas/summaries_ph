@@ -11,10 +11,6 @@ output:
 
 ```{r setup, include= FALSE, echo=FALSE, fig.align = "right"}
 library(here)
-
-knitr::include_graphics("images/vowels_eng_span.png")
-
-# NO FUNCIONA. SE TIENE QUE PONER A LA DERECHA
 ```
 
 # Summary 
@@ -127,20 +123,62 @@ knitr::include_graphics("images/vowels_eng_span.png")
   + Perception task
 
 ---
-+ **Stimuli**: English nonwords (CCVC) with 4 vowel contrasts:
-  + Easy contrast: [i] - [u] -> /gl_s/
-  + Difficult contrasts: 
-      + [ʊ] - [oʊ]* -> /fl_s/
-      + [ɪ] - [eɪ]* -> /kl_s/
-      + [ɑ] - [ʌ] -> /tʃ_s/
-      
-      ![Vowel chart English vs Spanish](images/vowels_eng_span.png)
+<div style="display: flex; align-items: flex-start;">
+    <ul>
+        <li><strong>Stimuli</strong>: English nonwords (CCVC) with 4 vowel contrasts:
+            <ul>
+                <li>Easy contrast: [i] - [u] -&gt; /gl_s/</li>
+                <li>Difficult contrasts:
+                    <ul>
+                        <li>[ʊ] - [oʊ]* -&gt; /fl_s/</li>
+                        <li>[ɪ] - [eɪ]* -&gt; /kl_s/</li>
+                        <li>[ɑ] - [ʌ] -&gt; /tʃ_s/</li>
+                    </ul>
+                </li>
+                <li>Declarative (low-f0) and interrogative sentences (high-f0)</li>
+                <li>Neutral f0 type and incongruent f0 type</li>
+            </ul>
+        </li>
+    </ul>
+    <div style="flex-grow: 1;"></div>
+    <div style="text-align: right;">
+        <img src="images/vowels_eng_span.png" alt="Vowel chart English vs Spanish" style="float: right; margin-left: 20px; width: 700px;">
+    </div>
+</div>
 
-  + Declarative (low-f0) and interrogative sentences (high-f0)
-  + Neutral f0 type and incongruent f0 type
-                    
-+ **Procedure**:
-  + 64 trials x 4 contrasts = 256 AXB trials
++ **Procedure**: 
+  + 64 trials x 4 contrasts = one block of 256 trials
+  + ISI of 0 or 1000 ms
   + 3 stimuli 
   + push 1-2 or 2-3 button (1-2 if 2 was like 1, 2-3 if 2 was like 3)
   + practice block with feedback
+
+---
++ **Results**: 
+  + **Between-group differences**
+      + Spanish MLs:
+          + The vowel pair for the easy contrast was heard as distinct Spanish vowels
+          + Scored at or near chance **&rarr;** Did not perceive vowels as distinct phonemes for the difficult contrasts 
+          
+      + English MLs
+          + Scored near ceiling for the difficult contrasts
+          
+      + L1 Spanish - L2 English BLs
+          + Higher scores than the Spanish MLs at both ISIs 
+          + Similar scores to English MLs at ISI=1000 ms
+          + Slightly lower scores than the English MLs in [ʊ] - [oʊ] and [ɪ] - [eɪ] contrasts at ISI=0 ms
+          + Non-overlapping scores for the three difficult contrasts at ISI=0 ms (individual BLs and Spanish MLs)
+
+  + **Individual differences** among BLs **&rarr;** Some obtained scores below English MLs **&rarr;** AoE, L2 use, L2 exposure
+
+---
++ **Discussion**: 
+  + Based on the results that we just discussed...
+      + How do the findings in this study contribute to our knowledge of L2 speech perception?
+      + What are your main takeaways of this study? 
+      + Why is this study important? 
+      
+  + This study suggests that there might be some factors that might influence L2 speech perception...
+      + What have more recent studies found in this regard?
+  
+

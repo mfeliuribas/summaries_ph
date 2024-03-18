@@ -196,9 +196,6 @@ This is a chapter from the book *Key Issues in the Teaching of Spanish Pronuncia
     * What kind of studies are described in the background literature? How do they inform the present study?
     * What have previous studies on the perception of word stress found?
     * What is the topic of analysis? 
-    * Why do they focus on the vowels [a] and [i]? Why unaccented contexts?
-    * Why did the authors choose to manipulate duration, overall intensity, and spectral tilt as potential cues to stress?
-    * What might explain the differential perception of stress contrast depending on vowel type ([a] vs. [i])?
     * What are your main takeaways of this study? Why is it important? How do the findings in this study contribute to our knowledge of L2 perceptual abilities? 
   * What are the implications of these findings for both teaching and learning?
   * How might future research build upon these findings to further investigate perception of L2 sounds (Spanish, English, other languages)?

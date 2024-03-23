@@ -1,0 +1,159 @@
+---
+title: "Summaries week 9"
+subtitle: "Phonetics and Phonology of Bilingualism"
+author: "Meritxell Feliu Ribas"
+date: "2024-03-22"
+output: pdf_document
+header-includes:
+  - \usepackage{tipa}
+---
+
+# Reading 1: Jacewicz, Fox and Salmons (2011)
+Jacewicz et al. (2011) analyzed the ongoing change of /\textipa{\textsc{I}}, \textipa{ \textepsilon}, \textipa{\ae}/ in apparent time across three American English varieties from North Carolina (South), Ohio (Midwest), and Wisconsin (North). To that end, they recorded 123 adult women from 3 different age groups (21-33, 37-49, 51-65) reading sentence pairs in which the stressed varied. The authors found variation in vowel duration and formant dynamics (acoustic space and spectral change) within and between dialects, across the different generations of speakers. This study shows that American English is not monolithic and that there is an ongoing cross-generational change in the production of the examined vowels. 
+
+**Reference:** Jacewicz, E., R. A. Fox, and J. Salmons (2011). “Vowel change across three age groups of speakers in three
+regional varieties of American English". In: *Journal of Phonetics* 39.4, pp. 683–693.
+
+
+
+# Reading 2: Pallier, Bosch and Sebastián-Gallés (1997)
+Pallier et al. (1997) examined the discrimination of the Catalan vowel contrast [e]-[\textipa{\textepsilon}] by Spanish-Catalan early bilinguals and compared it to that of Catalan-Spanish bilinguals. Forty participants completed three tasks in order to assess their perception of such contrast. Overall, L1 Catalan bilinguals could differentiate between [e]-[\textipa{\textepsilon}], whereas L1 Spanish bilinguals could not master such contrast. Interestingly, there was great variability in the last group. The authors interpret such findings as evidence that support the hypothesis of loss of plasticity with age, in which the sound system acquired by these speakers is biased by the early acquisition of Spanish, making it difficult for them to create two new phonetic categories for the Catalan [e] and [\textipa{\textepsilon}], even with early and extensive exposure to this language. 
+
+**Reference:** Pallier, C., L. Bosch, and N. Sebastián-Gallés (1997). “A limit on behavioral plasticity in speech perception". In: *Cognition* 64.3, pp. B9–B17.
+
+
+
+# Reading 3: Shea (2017)
+I am the discussion leader for this article.
+
+**Reference:** Shea, C. (2017). “Dominance, Proficiency, and Spanish Heritage Speakers’ production of English and Spanish
+Vowels". In: *Studies in Second Language Acquisition* 41.1, pp. 123–149.
+
+
+
+
+# Notes on Shea (2019)
+  * Background lit.:
+    * BLs differ widely from each other in regard to both language acquisition and language use 
+    * The knowledge they develop of their language is tied to the use they make of each.
+    * Lananguage dominance and proficiency in bilinguals are multidimentional constructs
+    * Bilingualism as a continuum (L1 native speakers ------------ L2 native speakers)
+    * Variability as a fundamental part of heritage speaker language knowledge
+    * Birdsong (2015)
+        * Domains of dominance: situations in which the speaker may decide to use one language over another. The domain of dominance of one language necessarily differs from that of the other. They may include language skills, which are related to language proficiency
+        * Dimensions of dominance
+    * Montrul (2015): proficiency is a subcomponent of dominance. Proficiency includes AoA, place of birth/residency, languages of the environment, amount of input, context, use of each language... It is possible for speakers to share similar dominance profiles, but differ on proficiency
+    * Proficiency may not always align with dominance
+    * Dominance refers to domains of use and a certain level of proficiency is necessary for language use to occur
+    * HS - unique population; they defy traditional categorization in terms of how dominance and proficiency typically align
+    * HS - divergence from nonheritage native speaker grammars - Why? Multiples explanations (incomplete acquisition, etc.)
+    * HS's competence and performance is indeed different from ML norms 
+    * Considerable variability within HS group
+    * HS's phonological/phonetic system is closer to ML noms
+    * Differences -> experience and proficiency in HL; language use
+    * Effect of task measures
+    * Divergent attainment and structural simplicity
+    * Konopka and Pierrehumbert (2008) -> HSs' and L2 learners' have distinct vowel systems
+    * Ronquest (2012) -> HSs and MLs produce vowels differently
+    
+  
+  * Some key terms:
+    * Domains of dominance
+    * Dimensions of dominance
+    * Incomplete acquisition
+    * Attrition
+    * Limited formal education
+    * Divergent attainment
+    * Structural simplicity
+
+  * The present study:
+    * Examines how dominance and proficiency relate to Spanish HS vowel productions
+    * Wants to empirically demonstrate that HS dominance and proficiency in each language reflect the experiences and knowledge particular to that language
+    * Wants to explore how different factors related to dominance and proficiency account for the variability observed in HS vowel production
+        
+    * Methodology:
+        * Participants (n=45):
+            * 15 L1 Mexican Spanish - L2 English early bilinguals
+            * 15 L1 Mexican (n=9) or Colombian (n=6) Spanish - L2 late learners of English
+            * 15 L1 English - L2 late learners of Spanish
+        * Materials:
+            * Production task (participants had to read the words out loud at a comfortable pace)
+            * (Language background questionnaire)
+            * Fluency tasks (2 monologues)
+            * Expressive One Word Picture Vocabulary Test
+            * Picture naming task
+        * Stimuli: 
+            * List of words
+            * 3 disyllabic, troichaic real words + 1 nonword
+            * The target vowel was contextualized in the frame "bVpa" in the nonword
+             *English monophthongal vowels:[i ɪ e e æ ɑ ʌ o ʊ u]
+            * Spanish monophthongal vowels: [i e a o u]
+        * They calculated Spanish and English Pillai scores to measure the degree of overlap between heritage speaker and nonheritage speaker vowel distributions
+        * Use of CA to determine the precise contribution of each factor to the overall variance
+        
+    * Measures:
+        * Language dominance: English AoA, Spanish use at home, Spanish use outside the home, amount of codeswitching
+        * Language proficiency: fluency, expressive vocabulary scores, picture naming
+        
+    * Results: 
+        * Pillai scores: for Spanish + compact -> Greater overlap for Spanish vowels than for the English ones between the average for HSs and "monolingual" native speakers in F1/F2 space
+            * Spanish dominance model:
+                * The model was significant 
+                * The four predictors accounted for only about 10% of the variability
+                * Highest total contribution to the variance in Spanish Pillai scores: Spanish outside the home (72%), Spanish use at home (42%), English AoA (14%), and codeswitching (10%) -> Unsurprising results
+                * Spanish outside the home and Spanish use at home made the greatest contribution overall to the variance in the dominance model (40% and 11.1%, respectively), although their contributions were moderate
+                * The combination of Spanish use inside and outside the home made the larges contribution to the total variance (19%)
+                * English AoA doesn't make an important individual contribution to the variance in the Spanish dominance model
+            * Spanish proficiency model
+                * Moderate to high correlations for all factors - they accounted for 40% of the overall variability
+                * The model was significant
+                * Contribution to the overall model variance: Spanish vocab (7%), Spanish adult monologue (5.7%), and Spanish picture naming (4.7%). Spanish child monologue didn't make a meaningful unique contribution
+                * Contribution to the total model: vocabulary (52%), picture naming (48%), adult monologue (43%), and child monologue (30%)
+            * English dominance model
+                * ALL the vowels
+                * The model was significant
+                * Noticeable differences between the tense and lax and low vowels -> Higher Pillai scores for lax [ɪ e æ ʌ o ʊ] and low [ɑ] vowels -> significant difference -> significant less overlap in the distributions for the lax vowels and [ɑ] than for the tense vowels in English
+                * Strong positive correlation between Spanish outside the home and codeswitching; Spanish inside and outside the home
+                * Weak correlations between codeswitching and English Pillai scores and English AoA
+                * English dominance predictors accounted for about 28% of the overall variability
+                * Spanish outside the home -> English AoA -> Spanish at home -> Codeswitching
+            * English proficiency model
+                * Only the lax vowels and [ɑ] 
+                * The four predictors accounted for about 40% of the overall variability
+                * The model was significant
+                * English picture naming -> English vocabulary -> English adult monologue -> English child monologue
+                * English picture naming + adult monologue -> Largest unique contribution
+        * Different factors made distinct unique and combined contributions to the variance in Pillai scores across both languages for dominance and proficiency
+        
+    * Discussion: 
+        * Spanish outside the home made the greatest unique contribution to the Spanish dominance model, followed by the shared variance between Spanish inside and outside the home; Spanish inside the home highly correlated with Spanish outside the home
+        * For the English dominance model, English AoA uniquely contributed 21% of the variance, and Spanish outside the home 26%. English AoA accounted for a larger proportion of the variance in the English Pillai scores than in Spanish -> Spanish phonetic categories may have influenced the development of English and affected primarily the lax vowels in English, which are not part of the Spanish inventory
+        * For both Spanish and English, Spanish outside the home accounted for a high proportion of the unique variation, but the values were negative for Spanish. This suggests that the more Spanish an individual speakers outside of home, the more they approximate nonheritage native Spanish speaker vowel productions. For English, it was the opposite: + Spanish spoken outside, less approximation to nonheritage native English speaker vowel productions. 
+        * The factors related to dominance made different unique and common contributions to the Spanish and English variance in Pillai scores -> HSs' production in each language reflects distinct AoA and context effects as a consequence of diverse experiences with each language
+        ---
+        * Proficiency results also showed that different factors account for the variability in each model across Spanish and English
+        * The unique contribution of the adult monologue score was more than two times greater for Spanish (17%) than for English (7%) -> Effect of context of use
+        * The unique contribution of the picture naming was almost twice as large for Spanish (15%) than for English (8%) -> Speed of lexical retrieval and execution of articulatory plans -> Faster retrieval = phonetic productions that are closer to nonheritage native speaker values
+        * Differences in the contribution of vocab scores: accounted for 16% of the unique variance in Spanish, 0% in English
+        * Spanish -> adult monologue, picture naming, vocabulary tasks made unique contributions to the model variance that summed to almost 50% of the total; English -> the unique variance of the four proficiency factors summed to only 15%
+  
+  * Conclusions
+      * Different factors accounted for unique and shared variance across each language -> It is logic, given the reality of HS linguistic experience -> Factors that best account for variability in HL proficiency will not necessarily be the same as those that reflect variability in the majority community language
+      * For both English and Spanish, the proficiency model accounted for a much higher % of the variability in the Pillai scores than did dominance -> There are other factors at play when capturing the notions of dominance that were not fully accounted for by the four examined variables -> It reflects the difficulty of capturing language dominance in general -> ALSO, greater explanatory power of proficiency = it might be easier to measure than dominance (which depends on self-reported use, etc.)
+      * Type of input (+ social networks) - they bring this up in the conclusions. I wonder how we could measure this
+      * 2 important points:
+          (1) * HS use each of their languages in different domains
+              * Proficiency and dominance are constructs that rest upon a complex set of factors, which may interact differently for each of the HS's languages
+          (2) * It is useful to consider dominance and proficiency as separate but related constructs
+      * Other participants, with other dominance and proficiency trajectories might exhibit different patterns of shared and unique variance across factors
+      * Each of the HS's languages develops under different conditions and variability across HS phonetic productions is to be expected
+  
+  
+  * Potential questions:
+    * What kind of studies are described in the background literature? How do they inform the present study?
+    * What have previous studies on the perception of word stress found?
+    * What is the topic of analysis? 
+    * What are your main takeaways of this study? Why is it important? How do the findings in this study contribute to our knowledge of L2 perceptual abilities? 
+  * What are the implications of these findings for both teaching and learning?
+  * How might future research build upon these findings to further investigate perception of L2 sounds (Spanish, English, other languages)?
+

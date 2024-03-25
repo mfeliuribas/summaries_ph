@@ -10,77 +10,121 @@ output:
 ---
 # Summary 
 
-+ **General topic**: IDK
-+ **More specific**: IDK
-
++ **General topic**: Production of L1-L2 sounds
++ **More specific**: The production of Spanish and English vowels by Spanish heritage speakers (HS)
 ---
+
 # Summary 
 
-+ **General topic**: IDK
-+ **More specific**: IDK
++ **General topic**: Production of L1-L2 sounds
++ **More specific**: The production of Spanish and English vowels by Spanish heritage speakers (HS)
 
 <br/>
 
 # Some key concepts
 
-+ IDK
++ Dominance vs Proficiency
++ Domains of dominance vs Dimensions of dominance
++ Incomplete acquisition vs Attrition
++ Divergent attainment
++ Structural simplicity
 
 ---
 # Previous studies
-+ What kind of studies are described in the background literature? How do they inform the present study?
-+ What have previous studies on the perception of word stress found?
-+ What is novel about the present study?
++ Not many studies are mentioned, main focus on HSs and their different outcomes (proficiency, dominance)
++ Studies on vowel production:
+    + Konopka & Pierrehumbert (2008)
+    + Ronquest (2012)
++ .black[Question]: What makes this study different (e.g., participants profile, stimuli, predictors, statistical analysis)?
 
 ---
 # Previous studies
-+ What kind of studies are described in the background literature? How do they inform the present study?
-+ What have previous studies on the perception of word stress found?
-+ What is novel about the present study?
++ Not many studies are mentioned, main focus on HSs and their different outcomes (proficiency, dominance)
++ Studies on vowel production:
+    + Konopka & Pierrehumbert (2008)
+    + Ronquest (2012)
++ .black[Question]: What makes this study different (e.g., participants profile, stimuli, predictors, statistical analysis)?
 
-<br/>
 
 # The present study
-+ 4 main goals:
-  + Perception of stress contrast in unaccented contexts (no pitch accent + no vowel reduction)
-  + Interaction between duration and overall intensity?
-  + Same weigh for every cue? Same as production?
-  + More reliability on overall intensity than on spectral tilt?
++ Main goals:
+  + Examine Spanish HSs' vowel productions in both Spanish and English
+  + Explore how different factors related to dominance and proficiency account for the variability observed in vowel production
+  + Demonstrate that HSs' dominance and proficiency in each language reflect the experience and knowlege particular to that language
 
 ---
 # Methods
-+ **Participants**: 20 Castilian Spanish monolinguals
-+ **Task**: listen and identify oxytone (agudas) words in unaccented sentences
-+ **Stimuli**: 175 aural sentences **&rarr;** "Hola - saluda X contenta"
-  + **Target words**: *mama-mamá* and *mimi-mimí*
-  + Target words varied in **two bi-dimensional paroxytone-oxytone continua**: 
-      + What does it mean?
-      + How do the authors manipulate their stimuli? 
-      + Could they have done it differently?
-      + Why do they do it?
-      + Why did they specifically choose duration, overall intensity, and spectral tilt as potential cues to stress?
-      + Why do you think that the authors focus on the vowels [a] and [i]? Why unaccented contexts?
+
+### Participants
++ 15 L1 Mexican Spanish - L2 English early bilinguals
++ 15 L1 Mexican (n=9) or Colombian (n=6) Spanish - L2 late learners of English
++ 15 L1 English - L2 late learners of Spanish
+
+<br/>
+
+### Materials
++ (Language background questionnaire)
++ Fluency tasks (2 monologues)
++ Expressive One Word Picture Vocabulary Test
++ Picture naming task
++ Production task
+
+---
+### Production task
++ Participants had to read a **list of words**, separated into rows
++ Each row had **4 words**: 3 disyllabic, troichaic real words + 1 nonword
+    + The target vowel was contextualized in the frame "bVpa" in the nonword
+    + e.g., [i] **&rarr;** *beepa*
++ **Target vowels**
+    + English:[i ɪ &#603; e æ &#593; ʌ o ʊ u]
+    + Spanish: [i e a o u]
++ **F1 and F2** measurements for each target vowel
++ Vowels were **normalized** (speaker intrinsic, speaker intrinsic, formant intrinsic) **&rarr;** Calculation of Pillai scores
+
+### Analysis
++ **Dependent variable**: Pillai scores
++ **Predictors**: 
+    + 4 measures of language dominance
+    + 3 measures of language proficiency
+  + .black[Question]: What specific measures for evaluating language dominance and proficiency do they use?
 
 ---
 # Main results
-+ Spanish speakers **do perceive stress** in reporting sentences **&rarr;** Stress can be perceived **in the absence of pitch accents and vowel reduction patterns**
-+ Cues to stress depend on vowel type
-+ Perception of stress is based on a **cluster of cues**, mainly duration and overall intensity. 
-+ Importantly, cues to stress **depend on vowel type** and their weights changed according to the vowel:
-      + **[a]**
-        + main cue = duration
-        + when duration cues are ambiguous, then intensity
-        + both duration and intensity contribute to the perception in an additive manner
-      + **[i]**
-        + main cue = overall intensity
-        + they do not rely on duration, even when intensity cues were ambiguous
-        + no additive relationship between intensity and duration
-+ Spectral tilt had no effects
+
+### Pilai scores
++ Divergence in Pillai scores
++ More compact for Spanish than English  **&rarr;** Greater overlap for Spanish vowels than for English 
++ Differences between tense and lax and low vowels for English:
+    + Higher scores for the lax [ɪ &#603; æ ʌ ʊ] and low vowel [&#593;] than for the tense [i e o u] **&rarr;** Less overlap with the nonheritage English speakers
 
 ---
-# Some discussion questions
-+ What might explain the differential perception of stress contrast depending on vowel type ([a] vs. [i])?
-+ We can consider this study as a continuation of Ortega-Llebaria and Prieto (underreview?, 2009?) (discussed in the lit. review). What similarities and/or differences do the authors find regarding duration and intensity cues in the production and perception patterns?
-+ What are your main takeaways of this study? 
-+ What did you (dis)like about this study?
-+ Why is this study important? 
-+ How do the findings in this study contribute to our knowledge of stress perception/production?
+### Dominance
++ Factors made **different unique and common contributions** 
++ Greatest unique contribution for both languages, but different proportion: **Spanish outside the home** (Span: 40%, Eng: 26%)
++ In **Spanish**, Spanish outside the home was followed by shared variance Spanish inside - Spanish outside the home
+    + Spanish inside the home &rarr; small unique contribution (highly correlated with Spanish outside the home)
++ In **English**, Spanish outside the home was followed by unique contribution of English AoA 
+    + English AoA accounted for a larger proportion of the variance in the English Pillai scores than in Spanish **&rarr;** Spanish phonetic categories may have influenced the development of English and affected the lax vowels (less overlap), which are not part of the Spanish inventory
+
+---
+### Proficiency
++ Similar to in the dominance model, **different factors** accounted for the variability in each language
++ Unique contributions, different proportion:
+    + **Adult monologue score** (Span: 17%, Eng: 7%)
+    + **Picture naming score** (Span: 15%, Eng: 8%)
++ In **Spanish**, vocabulary knowledge accounted for 16% of the unique variance (0% in English)
++ In **Spanish**, adult monologue, picture naming, vocabulary tasks made unique contributions to the model variance that summed to almost 50% of the total; in **English** the unique variance of the four proficiency factors summed to only 15%
++ This model accounted for a much higher % of variability in Pillai scores than did dominance
+
++ .black[Question]: Why do you think that the proficiency model accounted for a  higher % of variability in Pillai scores?
++ .black[Question]: What do these results (dominance and proficiency) indicate?
+
+---
+# Conclusions
++ **Different factors** accounted for unique and shared variance across each language **&rarr;** Factors that best account for variability in HL proficiency will not necessarily be the same as those that reflect variability in the majority community language **&rarr;** This is **not surprising** considering the reality of HSs' language experience
++ Proficiency and dominance are constructs that rest upon a **complex set of factors**, which may interact differently for each of the HS's languages
++ **Dominance model** **&rarr;** There might be **other factors at play** when capturing the notions of dominance that were not fully accounted for by the four examined variables
++ Greater explanatory power of **proficiency** **&rarr;** It might be **easier to measure**
++ Each of the **HSs' languages develops under different conditions** and **variability** across HS phonetic productions is to be expected
+
++ .black[Question]: What are your main takeaways of this study? 

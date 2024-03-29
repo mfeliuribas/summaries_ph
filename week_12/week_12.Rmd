@@ -1,0 +1,26 @@
+---
+title: "Summaries week 10"
+subtitle: "Phonetics and Phonology of Bilingualism"
+author: "Meritxell Feliu Ribas"
+date: "2024-03-28"
+output: pdf_document
+---
+
+# Reading 1: Torreira (2012)
+Write here
+
+**Reference:** Torreira, F. (2012). “Investigating the nature of aspirated stops in Western Andalusian Spanish". In: *Journal of the International Phonetic Association* 42.1, pp. 49–63.
+
+
+
+# Reading 2: Ruch and Peters (2016)
+Write here
+
+**Reference:** Ruch, H. and S. Peters (2016). “On the origin of post-aspirated stops: Production and perception of/s/+voiceless stop sequences in Andalusian Spanish". In: *Laboratory Phonology* 7.1, pp. 1–36.
+
+
+
+# Reading 3: Elliott (2019)
+Write here
+
+**Reference:** A. Raymond Elliott (2019). “A Theoretical Framework in the Acquisition and Teaching oF Fricatives to L2 learners of Spanish". In: *Key Issues in the Teaching of Spanish Pronunciation*. Ed. by R. Rao. Routledge, pp. 84–104.

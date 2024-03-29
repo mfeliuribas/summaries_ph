@@ -1,0 +1,26 @@
+---
+title: "Summaries week 10"
+subtitle: "Phonetics and Phonology of Bilingualism"
+author: "Meritxell Feliu Ribas"
+date: "2024-03-28"
+output: pdf_document
+---
+
+# Reading 1: Schmeiser (2019)
+Write here
+
+**Reference:** Schmeiser, B. (2019). “Issues In the Teaching of Spanish Liquid Consonants". In: *Key Issues in the Teaching of Spanish Pronunciation*. Ed. by R. Rao. Routledge, pp. 105–125.
+
+
+
+# Reading 2: Amengual (2016)
+Write here
+
+**Reference:** Amengual, M. (2016). “Acoustic correlates of the Spanish tap-trill contrast: Heritage and L2 Spanish speakers". In: *Heritage Language Journal* 13.2, pp. 88–112.
+
+
+
+# Reading 3: Amengual (2018)
+Write here
+
+**Reference:** Amengual, M. (2018). “Asymmetrical interlingual influence in the production of Spanish and English laterals as a result of competing activation in bilingual language processing". In: *Journal of Phonetics* 69, pp. 12–28.

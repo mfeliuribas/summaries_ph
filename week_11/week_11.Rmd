@@ -1,0 +1,26 @@
+---
+title: "Summaries week 10"
+subtitle: "Phonetics and Phonology of Bilingualism"
+author: "Meritxell Feliu Ribas"
+date: "2024-03-28"
+output: pdf_document
+---
+
+# Reading 1: Amengual (2012)
+Write here
+
+**Reference:** Amengual, M. (2012). “Interlingual influence in bilingual speech: Cognate status effect in a continuum of bilingualism". In: *Bilingualism: Language and Cognition* 15.3, pp. 517–530.
+
+
+
+# Reading 2: Carrasco, Hualde and Simonet (2012)
+Write here
+
+**Reference:** Carrasco, P., J. I. Hualde, and M. Simonet (2012). “Dialectal Differences in Spanish Voiced Obstruent Allophony: Costa Rican versus Iberian Spanish". In: *Phonetica* 69.3, pp. 149–179.
+
+
+
+# Reading 3: Fabiano-Smith, Oglive, Maiefsi, et al. (2015)
+Write here
+
+**Reference:** Fabiano-Smith, L., T. Oglivie, O. Maiefski, et al. (2015). “Acquisition of the stop-spirant alternation in bilingual Mexican Spanish–English speaking children: Theoretical and clinical implications". In: *Clinical linguistics & phonetics* 29.1, pp. 1–26.

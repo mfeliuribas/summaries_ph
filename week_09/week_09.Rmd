@@ -57,13 +57,18 @@ Vowels". In: *Studies in Second Language Acquisition* 41.1, pp. 123–149.
     * Ronquest (2012) -> HSs and MLs produce vowels differently
     
   * Some key terms:
-    * Domains of dominance
-    * Dimensions of dominance
-    * Incomplete acquisition
-    * Attrition
+    * Dominance: language use—that is, how frequently bilinguals use their languages and how these are divided across domains
+    * Proficiency: a person's ability to use language -> And how is it measured? (fluency, lexical retrieval, grammar tests...)
+    * Domains of dominance: a way to determine language dominance -> Situations in which the speaker may decide to use one language over the other - if you use the language A for X, you will not use the language B for X
+    * Dimensions of dominance: another way to determine language dominance -> Linguistic competence, production, and processing. Thus, fluency of speech, lexical diversity, morphosyntactic knowledge, length of utterances, parsing speed and accuracy, etc.
+    * Incomplete acquisition: a way to explain why there are gaps in heritage grammars -> Aspects of the heritage grammar do not have a chance to be acquired due to insufficient L1 input exposure
+    * Attrition: another way to explain why there are gaps in heritage grammars -> Aspects of the heritage grammar are acquired but subsequently lost due to interrupted L1 input exposure
     * Limited formal education
-    * Divergent attainment
-    * Structural simplicity
+    * Divergent attainment: it is essentialy the same as 'incomplete acquisition', but without negative connotations -> The eventual HS adult grammar does not reach native-like (monolingual?) development
+    * Structural simplicity: the characteristic of heritage grammars, when some linguistic aspects and contrasts are "lessened" compared to nonheritage native grammars (e.g., Spanish subjunctive)
+
+* For me, what makes this study different is that they analyze different measures within the "main" predictors, to see which of them can better explain variability. For example, for proficiency they don't only use idk a DELE test, but rather 3 different measures. The same is for dominance, they consider, separately, 4 different measures, for example, Spanish use in the home. 
+* Also, the statistical analysis. Pilai scores?
 
   * The present study:
     * Examines how dominance and proficiency relate to Spanish HS vowel productions
@@ -75,12 +80,16 @@ Vowels". In: *Studies in Second Language Acquisition* 41.1, pp. 123–149.
             * 15 L1 Mexican Spanish - L2 English early bilinguals
             * 15 L1 Mexican (n=9) or Colombian (n=6) Spanish - L2 late learners of English
             * 15 L1 English - L2 late learners of Spanish
+        
         * Materials:
             * Production task (participants had to read the words out loud at a comfortable pace)
             * (Language background questionnaire)
             * Fluency tasks (2 monologues)
-            * Expressive One Word Picture Vocabulary Test
+                * "adult" (current events, university) AND "child" (family, childhood) monologues 
+                * They didn't explicit how it was scored
+            * Expressive One Word Picture Vocabulary Test (vocabulary knowledge)
             * Picture naming task
+        
         * Stimuli: 
             * List of words
             * 3 disyllabic, troichaic real words + 1 nonword
@@ -94,7 +103,7 @@ Vowels". In: *Studies in Second Language Acquisition* 41.1, pp. 123–149.
         * Language dominance: English AoA, Spanish use at home, Spanish use outside the home, amount of codeswitching
         * Language proficiency: fluency, expressive vocabulary scores, picture naming
         
-    * Results: 
+    * Results: SOLAPAR
         * Pillai scores: for Spanish + compact -> Greater overlap for Spanish vowels than for the English ones between the average for HSs and "monolingual" native speakers in F1/F2 space
             * Spanish dominance model:
                 * The model was significant 

@@ -1,0 +1,31 @@
+---
+title: "Summaries week 10"
+subtitle: "Phonetics and Phonology of Bilingualism"
+author: "Meritxell Feliu Ribas"
+date: "2024-03-29"
+output: pdf_document
+header-includes:
+  - \usepackage{tipa}
+---
+
+# Reading 1: Abramson and Whalen (2017)
+In this article, Abramson and Whalen (2017) introduce us to the concept of Voice Onset Time (VOT), which was initially proposed by Lisker and Abramson in the 60s as a measure of acoustic differences among stop consonants. This concept is revised in this paper by considering the studies on different languages (e.g., Hindi, English, Korean) that have been conducted since it was first proposed. Abramson and Whalen (2017) address the limitations of the first definition (e.g., it only considered word beginnings) and expand it, by proposing other terms such as Medial Voice Onset Time (MVOT) and Voice Offset Time (VOFT), which consider voicing contrasts within consonant clusters and in word-final position, respectively. In addition, they suggest that VOT can also be extended to affricates and aspirated fricatives. 
+
+**Reference:** Abramson, A. S. and D. H. Whalen (2017). “Voice Onset Time (VOT) at 50: Theoretical and practical issues in measuring voicing distinctions". In: *Journal of phonetics* 63, pp. 75–86.
+
+
+
+# Reading 2: Abramson and Lisker (1973)
+Abramson and Lisker (1973) examined the perception of the timing of voice onset in word-initial stops in Spanish by native speakers of Latin American Spanish(es). Participants were presented with aural stimuli and had to identify the stop consonants in an oddity task. The stimuli varied in the VOT; in particular, they were 37 synthesized VOT variants, which differed in 10-ms steps, ranging from 150ms before the release to 150ms after it, and which considered three conditions (lead, slight lag, long lag). Overall, participants were sensitive to variations in the VOT, as they could distinguish between voiced and voiceless stops. In addition, there was also a "boundary effect", in varying degrees based on the speaker. This study shows that Spanish speakers use VOT as a cue to discriminate stop consonants in word-initial positions.
+
+**Note:** I am not sure if I understood the paper correctly. For some reason (maybe because of the structure), it was very confusing for me and difficult to follow. 
+
+**Reference:** Abramson, A. S. and L. Lisker (1973). “Voice-Timing Perception in Spanish Word-Initial Stops". In: *Journal of Phonetics* 1.1, pp. 1–8.
+
+
+
+# Reading 3: Flege and Eefting (1988)
+Flege and Eefting (1988) analyzed the production of English stop consonants /d, t/ by different groups of English monolinguals (2 groups; adults and children), Spanish monolinguals (2 groups; adults and children), and L1 Spanish - L2 English bilinguals (3 groups; early bilingual children, early bilingual adults, late bilingual adults). Participants had to imitate the stimuli, which differed along a VOT continuum ranging from /da/ to /ta/, after identifying them. The results indicated both between- and within-group variability. For example, Spanish monolinguals significantly differed from English monolinguals in imitating the lead and long-lag VOT stimuli. Spanish-English bilinguals differed from both Spanish and English monolinguals, and produced stops with VOT values within the lead, short-lag, and long-lag ranges. In addition, they not only had a long-lag mode of production, but also were able to produce the English stop consonants. These findings suggest that Spanish-English bilinguals had developed a phonetic category for {\textipa{t\textsuperscript{h}}} in English and that the phonetic categories that they used in both languages might be part of a single system. 
+
+**Reference:** Flege, J. E. and W. Eefting (1988). “Imitation of a VOT continuum by native speakers of English and Spanish: Evidence for phonetic category formation". In: *The Journal of the Acoustical Society of America* 83.2, pp. 729–740.
+

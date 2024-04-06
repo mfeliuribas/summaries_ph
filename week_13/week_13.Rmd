@@ -7,7 +7,7 @@ output: pdf_document
 ---
 
 # Reading 1: Schmeiser (2019)
-Write here
+This is a chapter from the book *Key Issues in the Teaching of Spanish Pronunciation*. According to the syllabus, no summary is required for chapters.
 
 **Reference:** Schmeiser, B. (2019). “Issues In the Teaching of Spanish Liquid Consonants". In: *Key Issues in the Teaching of Spanish Pronunciation*. Ed. by R. Rao. Routledge, pp. 105–125.
 

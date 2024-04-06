@@ -142,7 +142,7 @@ library(here)
     </ul>
     <div style="flex-grow: 1;"></div>
     <div style="text-align: right;">
-        <img src="images/vowels_eng_span.png" alt="Vowel chart English vs Spanish" style="float: right; margin-left: 20px; width: 700px;">
+        <img src="/./images/vowels_eng_span.png" alt="Vowel chart English vs Spanish" style="float: right; margin-left: 20px; width: 700px;">
     </div>
 </div>
 

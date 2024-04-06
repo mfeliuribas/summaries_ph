@@ -1,5 +1,5 @@
 ---
-title: "Summaries week 10"
+title: "Summaries week 11"
 subtitle: "Phonetics and Phonology of Bilingualism"
 author: "Meritxell Feliu Ribas"
 date: "2024-03-28"
@@ -7,20 +7,20 @@ output: pdf_document
 ---
 
 # Reading 1: Amengual (2012)
-Write here
+Amengual (2012) examined the production the Spanish VOTs of /t/ by four groups of Spanish-English bilinguals: Spanish heritage speakers (n=10), English heritage speakers (n=9), English L1-Spanish L2 bilinguals (n=10), and Spanish L1-English L2 bilinguals (n=10). A group of 10 Spanish-Catalan bilinguals (with limited knowledge and use of English) served as a baseline. The data were elicited in a read aloud task, in monolingual Spanish mode, in which the participants had to read target words (cognates and non-cognates) inserted in a carrier phrase. Results indicated that early and late Spanish-English bilinguals produced longer VOT values for cognate words (more similar to English), whereas there were no differences of VOT values between cognate and non-cognate words for Spanish-Catalan bilinguals. In addition, the VOT values between early and late Spanish-English bilinguals were not statistically different. This paper suggests that there is a cognate effect on the production of VOT values in Spanish by Spanish-English bilinguals and adds evidence to the body of literature that shows that language systems in bilinguals don't operate independently, which have implications for theories of cognitive processing.
 
 **Reference:** Amengual, M. (2012). “Interlingual influence in bilingual speech: Cognate status effect in a continuum of bilingualism". In: *Bilingualism: Language and Cognition* 15.3, pp. 517–530.
 
 
 
 # Reading 2: Carrasco, Hualde and Simonet (2012)
-Write here
+Carrasco, Hualde and Simonet (2012) analyzed the production of the voiced obstruents /b,d,g/ by 10 Spanish speakers from Costa Rica, and compared it to that of 3 Spanish speakers from Spain in order to explore divergent patterns of the allophonic distribution. This study was motivated by the fact that, although dialectologists had suggested that some varieties in Central America and Highland Colombia had different allophonic distributions, little experimental research existed on the matter. Carrasco et al. (2012) adopted a continuous acoustic measure of spirantization (instead of a binary allophonic classification), and found that in Peninsular Spanish there was a continuum of constriction degrees, whereas in Costa Rican Spanish there was a separation between the degree of constriction of postcononantal vs postvocalic realizations of /b,d/. These findings suggest that the factors causing variation between the varieties are different, thus confirming that Costa Rican Spanish has a different pattern of allophony compared to what it is considered the general pattern (or 'the standard'). 
 
 **Reference:** Carrasco, P., J. I. Hualde, and M. Simonet (2012). “Dialectal Differences in Spanish Voiced Obstruent Allophony: Costa Rican versus Iberian Spanish". In: *Phonetica* 69.3, pp. 149–179.
 
 
 
-# Reading 3: Fabiano-Smith, Oglive, Maiefsi, et al. (2015)
-Write here
+# Reading 3: Fabiano-Smith, Oglive, Maiefsi, and Schertz (2015)
+Fabiano-Smith et al. (2015) investigated the acquisition of the stop-spirant alternation in typically-developing Mexican Spanish-American English bilinguals. To that end, they collected speech samples of 9 children, between the ages of 2;4 and 8;2, and from a lower socioeconomic status. Contrary to their predictions, older children (5-8 years old) were more accurate on the voiced stops than on the spirants (their hipothesis stated the opposite), used the stops  as substitutes of the spirants, and didn't demonstrate mastery of the spirants (high accuracy was predicted for both stops and spirants). Overall, voiced stops were produced more accurately, which supports, according to the authors, Harris' (1993) claim that the stops are phonemic forms and the spirants, allophones. The findings in this study also highlight the importance of designing suitable tests to diagnose bilinguals with possible phonological disorders, as those tests normed on monolinguals might contribute to an overdiagnosis of speech disorders.
 
-**Reference:** Fabiano-Smith, L., T. Oglivie, O. Maiefski, et al. (2015). “Acquisition of the stop-spirant alternation in bilingual Mexican Spanish–English speaking children: Theoretical and clinical implications". In: *Clinical linguistics & phonetics* 29.1, pp. 1–26.
+**Reference:** Fabiano-Smith, L., T. Oglivie, O. Maiefski, and J. Schertz (2015). “Acquisition of the stop-spirant alternation in bilingual Mexican Spanish–English speaking children: Theoretical and clinical implications". In: *Clinical linguistics & phonetics* 29.1, pp. 1–26.

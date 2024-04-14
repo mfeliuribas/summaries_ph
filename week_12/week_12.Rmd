@@ -1,22 +1,22 @@
 ---
-title: "Summaries week 10"
+title: "Summaries week 12"
 subtitle: "Phonetics and Phonology of Bilingualism"
 author: "Meritxell Feliu Ribas"
-date: "2024-03-28"
+date: "2024-04-10"
 output: pdf_document
 ---
 
 # Reading 1: Torreira (2012)
-Write here
+I am the discussion leader for this article.
 
 **Reference:** Torreira, F. (2012). “Investigating the nature of aspirated stops in Western Andalusian Spanish". In: *Journal of the International Phonetic Association* 42.1, pp. 49–63.
 
 
 
 # Reading 2: Ruch and Peters (2016)
-Write here
+Ruch and Peters (2016) examined the phenomenon of /s/ weakening, in particular, the change from pre- to post-aspiration, in two varieties of Andalusian Spanish (Eastern vs Western), in two different age groups (younger vs older). In order to better understand how articulatory and perceptual factors might play a role in the weakening of /s/, they conducted a production and a perception experiment with the same participants: 24 speakers from Granada and 24 from Seville. The results from the production experiment showed different patterns as for each generation and variety. Whereas in the case of Western Andalusian younger speakers produced /sp, st, sk/ with shorter pre-aspiration and longer post-aspiration compared to the older group, for Eastern Andalusian the only significant difference between groups was in the production of the /st/-sequence, in which this younger group mirrored the younger speakers from Western Andalusian Spanish. In addition, there was also variation in the VOT across places of articulation. In regard to the perception study, which was used to investigate the potential role of post-aspiration as a cue, all participants were able to discriminate between *pasta* and *pata* when the VOT of /(s)t/ varied, but the younger groups were more sensitive to post-aspiration as an acoustic cue. A comparison between the results from the production and the perception experiments showed that those participants that were more sensitive to post-aspiration as a cue, produced longer post-aspirations, thus suggesting that there is a relationship between production and perception.
 
-**Reference:** Ruch, H. and S. Peters (2016). “On the origin of post-aspirated stops: Production and perception of/s/+voiceless stop sequences in Andalusian Spanish". In: *Laboratory Phonology* 7.1, pp. 1–36.
+**Reference:** Ruch, H. and S. Peters (2016). “On the origin of post-aspirated stops: Production and perception of/s/ + voiceless stop sequences in Andalusian Spanish". In: *Laboratory Phonology* 7.1, pp. 1–36.
 
 
 
@@ -24,3 +24,174 @@ Write here
 This is a chapter from the book *Key Issues in the Teaching of Spanish Pronunciation*. According to the syllabus, no summary is required for chapters.
 
 **Reference:** A. Raymond Elliott (2019). “A Theoretical Framework in the Acquisition and Teaching oF Fricatives to L2 learners of Spanish". In: *Key Issues in the Teaching of Spanish Pronunciation*. Ed. by R. Rao. Routledge, pp. 84–104.
+
+
+
+
+# Notes on Torreira (2012) 
+  * General topic: Aspiration of stops in WAS
+  * More specific: 
+
+
+  * Intro:
+    * /s/-aspiration: when syllable-final /s/ is pronounced as a period of glottal frication or breathy voicing
+    * This often happens in many dialects of Spanish
+    * This is the case with WAS. However, its description has often been too simplistic:
+        * A simple replacement of [h] for syllable-final /s/? -> /s/ > [h] -> Not really
+        * There is a lot of variation:
+            * It can be elided (in utterance-final position)
+            * [h] is usually heard (in word-final position before a vowel)
+            * It is coarticulated in different ways with the upcoming consonant (in preconsonantal position):
+                * Gemination (/s/ in front of nasals, laterals, and other fricatives)
+                * Long voiced fricatives (in front of voiced stops)
+
+   * Question for this section: is the segmental rule /s/ > [h] representative of the phenomenon of /s/-aspiration in WAS?
+
+
+  * Intro. / Background lit.:
+    * Torreira (2007a):
+        * WAS vs Castilian Spanish
+        * VOT and stop closure durations were statistically significantly longer in WAS for [h + voiceless stop] clusters than in Castilian Spanish
+        * Variability in the occurrence of breathy voicing and preaspiration in WAS stops preceded by [h]
+    * Torreira (2007b):
+        * WAS vs Argentinean and Puerto Rican Spanish
+        * WAS [h + voiceless stop] clusters were characterized by longer closure durations than intervocalic stops
+        * [h + voiceless stop] clusters in WAS were produced with a great deal of gestural overlap
+    * So... it seems that the realization of [h + voiceless stop] clusters with long pre- and postaspirated stop clusters is a dialect-specific feature of WAS
+    * But... why? -> RQs!
+
+
+  *RQs:
+    1) Are aspirated stops in WAS result from a coarticulatory process or from a segmental rule?
+          * IF from coarticulatory process: 
+              * shorter VOT in unstressed syllables and faster speech rates, 
+              * positively correlated with speech rate, 
+              * trade-offs between VOT and preaspiration and closure durations
+          * IF from segmental rule: 
+              * longer VOT in stressed syllables and slower speech rates, 
+              * negatively correlated with speech rate, 
+              * NO trade-offs
+    2) What are the effects of speech rate and stress patterns on closure and vowel duration?
+    3) What are the effects of speech rate and stress patterns on VOT?
+    4) Is there a negative or positive correlation between VOT and the sum of aspiration and closure duration?
+
+
+  * Methodology
+    * 3 native speakers of Western Andalusian Spanish (from Cádiz)
+    * Task: read some sentences
+    * Stimuli: 60 sentences: "Digo X para mí"
+        * target words: 
+            * bisyllabic verbs with infinitive forms ending in -ascar (tascar, mascar, cascar), -aspar (raspar), -astar (pastar, bastar, gastar), 
+            * conjugated in 1st p. sg (present tense) and 3rd p. sg (preterit)
+            * only differed in lexical stress placement
+            * 3 target stops: /p,t,k/
+            * 2 stress patterns: paroxytone (llanas) vs oxytone (agudas)
+            * 10 repetitions
+            * 2 speech rates
+        * 60 sentences x 2 different speeds (slow vs fast) = 120 sentences x speaker
+        * A total of 360 sentences (from those, only 328 were included in the analysis
+
+        * Question for this section: why do they decide to manipulate the speech rate and the stress placement?
+            * Because this helps investigate the nature of aspirated stops in WAS; that is, if they are a result from a coarticulatory process or from a segmental rule
+            * Faster rates + unstressed syllables = more sensitive to coarticulatory effects
+            * Postaspiration duration (VOT) is sensitive to stress and speech rate in languages in which it is used as a segmental cue -> if so, VOT should be longer at slow speech rates and in stressed syllables
+            * If it is explained by articulatory overlap, trade-offs between preaspiration and closure duration, and postaspiration duration should be observed -> We need to manipulate speech rate and stress to introduce the variability necessary for these trade-offs to emerge
+
+
+  * Measurements
+        * Voice Onset Time
+        * Vowel Duration
+        * Closure Duration
+        * Preaspiration duration
+  
+  
+  * Results
+    * Each speaker was analyzed separately -> CAUTION! Better not make generalizations about WAS -> ¿Por qué no lo ponen todo junto y añaden speaker como random effect?
+    
+    * VOT values
+        * Differences among participants
+        * M1 had longer VOTs than the other speakers, especially for [t]
+        * F1 and M2 had shorter VOTs than M1
+        * Overall, VOT values were higher on average than those reported for Andalusian unaspirated stops (Torreira, 2007), BUT a "significant number" was short compared to other languages that use postaspiration as a contrastive cue in stops (e.g., Thai)
+    
+    * Assessment of speech rate and stress pattern
+        * Do speech rate and stress pattern have an effect on closure and vowel duration?
+        * Vowel and closure duration were longer in slow speech rate and stressed syllables ('masco', yo en presente) for all participants
+        * A series of ANOVAs confirmed this
+        * So... large and consistent effects of speech rate and stress on closure and vowel duration
+    
+    * Effects of rate and stress on VOT
+        * VOT values tended to be slightly longer at slow speech rates and in unstressed syllables
+        * A series of ANOVAs revealed differences among participants as for the factors that affect VOT values:
+            * F1: stop type and stress
+            * M1: stop type, rate, rate x stress (only in unstressed syllables)
+            * M2: stop type
+        * The difference between short and long VOT was only statistically significant for unstressed stops for 1 of the 3 participants
+        * Stressed stops did not show longer VOT than unstressed stops for any speaker (one speaker exhibited the opposite trend)
+        * So... VOT values didn't seem to be significantly affected by rate and stress
+        * So... long VOT in WAS voiceless stops preceded by aspirated /s/ doesn't act as an acoustic cue to the stop consonant
+    
+    * Trade-offs (compensación, intercambio) between VOT and aspiration + closure duration
+        * A series of regression models
+            * Statistically negative correlations between preaspiration duration and closure duration for participants F1 and M2
+            * M1 similar, but not statistically significant
+        * New regression models, controlling for the manipulated factors (they add them as covariates, is it the same as fixed effects?)
+            * All speakers showed statistically negative relationships between VOT values and preaspiration + closure duration
+                * No entiendo porq no hacen directamente esto
+        * So... quite consistent negative relationship between VOT and preaspiration and closure duration -> This negaative correlation meets the predictions of the coarticulatory account (of the occurrance of postaspiration in WAS voiceless stops)
+        * In agreement with a coarticulatory account of postaspiration in WAS voiceless stops, they found statistical evidence of trade-offs between VOT and preaspiration and closure durations - Clearly observed for 2 of the 3 speakers (F1 and M2) when only the main predictor was included; clearly observed for all speakers when the manipulated factors were controlled for 
+
+
+  * Discussion
+    * Postaspiration in WAS [h + voiceless stop] clusters is the result of extensive articulatory overlap between [h] and the upcoming voiceless stops
+    * An account relying on articulatory overlap can explain variation in pre- and postaspiration in WAS [h + voiceless stop] clusters and it can also explain the observed differences between WAS and other /s/-aspirating dialects
+    * However, articulatory overlap alone cannot account for the lengthening of the voiceless stops when preceded by [h], compared to other contexts (when preceded by a vowel or another consonant such as [l]). This lengthening may be attributed to a glottal gesture corresponding to [h], produced in overlap with the supraglottal gestures of the upcoming consonants. 
+    * Two gestural mechanisms are proposed to explain these phenomena:
+        (1) Realignment of the [h] devoicing gesture with respect to the onset of the supraglottal gesture in upcoming consonants, which leads to postaspiration in WAS voiceless stops
+        (2) Lengthening of the supraglottal gesture in upcoming consonants, possibly as a compensation for the realignment mechanism, to preserve the prosodic properties of the affected syllable
+          * However... research is needed to confirm this :)
+
+
+  * Conclusions
+    * Postaspiration is not a robust cue for a hypothetical series of aspirated stops segments
+    * Variability and behavior under changes of speech rate and stress location indicate that it is the result of extensive articulatory overlap
+    * Postaspiration results from a dialect-specific mechanism governing the coordination between glottal and superglottal gestures in [h + voiceless stop clusters]
+    * Intergestural coordination patterns are learned by speakers as part of their dialect or language
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    * Even in the absence of pitch-accents and vowel reduction patterns in the speech signal, Spanish speakers still detect the stress contrast on a basis of duration and overall intensity differences (while ignoring the spectral tilt)
+    * This confirms that at the lower levels of the prosodic hierarchy, stress in Spanish has its own phonetic material which works independently of vowel reduction patterns
+    * The use of the duration and overall intensity cues to perceive word stress differs across vowels
+  
+  * Potential questions:
+    * What kind of studies are described in the background literature? How do they inform the present study?
+    * What have previous studies on the perception of word stress found?
+    * What is the topic of analysis? 
+    * Why do they focus on the vowels [a] and [i]? Why unaccented contexts?
+    * Why did the authors choose to manipulate duration, overall intensity, and spectral tilt as potential cues to stress?
+    * What might explain the differential perception of stress contrast depending on vowel type ([a] vs. [i])?
+    * We can consider this study as a continuation of Ortega-Llebarria and Prieto (2009) (discussed in the lit. review). What similarities and/or differences do the authors find regarding duration and intensity dues in the production and perception patterns?
+    * What are your main takeaways of this study? Why is it important? How do the findings in this study contribute to our knowledge of stress perception/production? Stress has its own phonetic material in unaccented contexts, which is language specific (it differs according to the phonology of each language); e.g., Spanish (duration and overall intensity), Catalan (duration, overall intensity, and vowel reduction), Dutch (duration, spectral tilt, and vowel reduction), etc. 
+      -> Defining stress is challenging due to its complex nature; 
+      -> it cannot simply be viewed as a structural element without any phonetic significance
+      -> it cannot be easily identified using universal cross-linguistic cues
+      -> perception of stress seems to rely on a combination of various cues that contribute to the rhythm of speech
+      -> it varies according to the phonology of each language
+  * What are the implications of these findings for the teaching and learning of Spanish pronunciation?
+  * How might future research build upon these findings to further investigate stress perception in Spanish and other languages?
+
+

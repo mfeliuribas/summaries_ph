@@ -1,0 +1,91 @@
+---
+title: "Investigating the nature of aspirated stops in Western Andalusian Spanish"
+subtitle: "Francisco Torreira (2012)"
+author: "Meritxell Feliu Ribas"
+institute: "Rutgers University"
+date: "2024/04/15"
+output:
+  xaringan::moon_reader:
+    css: [default, rutgers, rutgers-fonts]
+---
+# Summary 
+
++ **General topic**: Perception of stress among Spanish monolinguals
++ **More specific**: The acoustic cues and cue-interaction that Castilian Spanish speakers use to perceive primary stress in unaccented contexts
+
+---
+# Summary 
+
++ **General topic**: Perception of stress among Spanish monolinguals
++ **More specific**: The acoustic cues and cue-interaction that Castilian Spanish speakers use to perceive primary stress in unaccented contexts
+
+<br/>
+
+# Some key concepts
+
++ Primary vs Secondary stress
++ Accented vs Unaccented contexts
++ Prosodic/Prominence hierarchy
++ Duration
++ Intensity
++ Spectral tilt
+
+---
+# Previous studies
++ What kind of studies are described in the background literature? How do they inform the present study?
++ What have previous studies on the perception of word stress found?
++ What is novel about the present study?
+
+---
+# Previous studies
++ What kind of studies are described in the background literature? How do they inform the present study?
++ What have previous studies on the perception of word stress found?
++ What is novel about the present study?
+
+<br/>
+
+# The present study
++ 4 main goals:
+  + Perception of stress contrast in unaccented contexts (no pitch accent + no vowel reduction)
+  + Interaction between duration and overall intensity?
+  + Same weigh for every cue? Same as production?
+  + More reliability on overall intensity than on spectral tilt?
+
+---
+# Methods
++ **Participants**: 20 Castilian Spanish monolinguals
++ **Task**: listen and identify oxytone (agudas) words in unaccented sentences
++ **Stimuli**: 175 aural sentences **&rarr;** "Hola - saluda X contenta"
+  + **Target words**: *mama-mamá* and *mimi-mimí*
+  + Target words varied in **two bi-dimensional paroxytone-oxytone continua**: 
+      + What does it mean?
+      + How do the authors manipulate their stimuli? 
+      + Could they have done it differently?
+      + Why do they do it?
+      + Why did they specifically choose duration, overall intensity, and spectral tilt as potential cues to stress?
+      + Why do you think that the authors focus on the vowels [a] and [i]? Why unaccented contexts?
+
+---
+# Main results
++ Spanish speakers **do perceive stress** in reporting sentences **&rarr;** Stress can be perceived **in the absence of pitch accents and vowel reduction patterns**
++ Cues to stress depend on vowel type
++ Perception of stress is based on a **cluster of cues**, mainly duration and overall intensity. 
++ Importantly, cues to stress **depend on vowel type** and their weights changed according to the vowel:
+      + **[a]**
+        + main cue = duration
+        + when duration cues are ambiguous, then intensity
+        + both duration and intensity contribute to the perception in an additive manner
+      + **[i]**
+        + main cue = overall intensity
+        + they do not rely on duration, even when intensity cues were ambiguous
+        + no additive relationship between intensity and duration
++ Spectral tilt had no effects
+
+---
+# Some discussion questions
++ What might explain the differential perception of stress contrast depending on vowel type ([a] vs. [i])?
++ We can consider this study as a continuation of Ortega-Llebaria and Prieto (underreview?, 2009?) (discussed in the lit. review). What similarities and/or differences do the authors find regarding duration and intensity cues in the production and perception patterns?
++ What are your main takeaways of this study? 
++ What did you (dis)like about this study?
++ Why is this study important? 
++ How do the findings in this study contribute to our knowledge of stress perception/production?

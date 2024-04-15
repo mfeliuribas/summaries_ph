@@ -138,7 +138,7 @@ This is a chapter from the book *Key Issues in the Teaching of Spanish Pronuncia
         * New regression models, controlling for the manipulated factors (they add them as covariates, is it the same as fixed effects?)
             * All speakers showed statistically negative relationships between VOT values and preaspiration + closure duration
                 * No entiendo porq no hacen directamente esto
-        * So... quite consistent negative relationship between VOT and preaspiration and closure duration -> This negaative correlation meets the predictions of the coarticulatory account (of the occurrance of postaspiration in WAS voiceless stops)
+        * So... quite consistent negative relationship between VOT and preaspiration and closure duration -> This negative correlation meets the predictions of the coarticulatory account (of the occurrance of postaspiration in WAS voiceless stops)
         * In agreement with a coarticulatory account of postaspiration in WAS voiceless stops, they found statistical evidence of trade-offs between VOT and preaspiration and closure durations - Clearly observed for 2 of the 3 speakers (F1 and M2) when only the main predictor was included; clearly observed for all speakers when the manipulated factors were controlled for 
 
 
@@ -157,41 +157,3 @@ This is a chapter from the book *Key Issues in the Teaching of Spanish Pronuncia
     * Variability and behavior under changes of speech rate and stress location indicate that it is the result of extensive articulatory overlap
     * Postaspiration results from a dialect-specific mechanism governing the coordination between glottal and superglottal gestures in [h + voiceless stop clusters]
     * Intergestural coordination patterns are learned by speakers as part of their dialect or language
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-    
-    
-    * Even in the absence of pitch-accents and vowel reduction patterns in the speech signal, Spanish speakers still detect the stress contrast on a basis of duration and overall intensity differences (while ignoring the spectral tilt)
-    * This confirms that at the lower levels of the prosodic hierarchy, stress in Spanish has its own phonetic material which works independently of vowel reduction patterns
-    * The use of the duration and overall intensity cues to perceive word stress differs across vowels
-  
-  * Potential questions:
-    * What kind of studies are described in the background literature? How do they inform the present study?
-    * What have previous studies on the perception of word stress found?
-    * What is the topic of analysis? 
-    * Why do they focus on the vowels [a] and [i]? Why unaccented contexts?
-    * Why did the authors choose to manipulate duration, overall intensity, and spectral tilt as potential cues to stress?
-    * What might explain the differential perception of stress contrast depending on vowel type ([a] vs. [i])?
-    * We can consider this study as a continuation of Ortega-Llebarria and Prieto (2009) (discussed in the lit. review). What similarities and/or differences do the authors find regarding duration and intensity dues in the production and perception patterns?
-    * What are your main takeaways of this study? Why is it important? How do the findings in this study contribute to our knowledge of stress perception/production? Stress has its own phonetic material in unaccented contexts, which is language specific (it differs according to the phonology of each language); e.g., Spanish (duration and overall intensity), Catalan (duration, overall intensity, and vowel reduction), Dutch (duration, spectral tilt, and vowel reduction), etc. 
-      -> Defining stress is challenging due to its complex nature; 
-      -> it cannot simply be viewed as a structural element without any phonetic significance
-      -> it cannot be easily identified using universal cross-linguistic cues
-      -> perception of stress seems to rely on a combination of various cues that contribute to the rhythm of speech
-      -> it varies according to the phonology of each language
-  * What are the implications of these findings for the teaching and learning of Spanish pronunciation?
-  * How might future research build upon these findings to further investigate stress perception in Spanish and other languages?
-
-

@@ -56,7 +56,8 @@ output:
   + **Target words**: 
       + Bisyllabic verbs with infinitive forms ending in -ascar (*tascar*, *mascar*, *cascar*), -aspar (*raspar*), -astar (*pastar*, *bastar*, *gastar*)
       + 2 forms / stress patterns: *raspo* vs *raspó* **&rarr;** Lexical stress (paroxytone vs oxytone)
-      + [h + voiceless stop] cluster **&rarr;** .black[Question]: Why did the author focus on this cluster?
+      + [h + voiceless stop] cluster **&rarr;** 
+.black[Question]: Why did the author focus on this cluster?
       + 2 speech rates
       
   + 60 sentences x 2 different speed rates = 120 sentences per speaker
@@ -73,6 +74,7 @@ output:
   
   + Preaspiration duration
 
+</br>
 
 # Analysis
   + A total of 328 sentences were included in the analysis
@@ -88,7 +90,7 @@ output:
     
     + F1 and M2 had shorter VOTs than M1
     
-    + VOT values were higher on average than those reported for Andalusian unaspirated stops (Torreira, 2007a), BUT a "significant number" was short compared to other languages that use postaspiration as a contrastive cue in stops (e.g., Thai)
+    + VOT values were higher on average than those reported for Andalusian unaspirated stops (Torreira, 2007a), BUT a *significant number* was short compared to other languages that use postaspiration as a contrastive cue in stops (e.g., Thai)
 
   + **Assessment of speech rate and stress pattern**
     + Vowel and closure duration were longer in slow speech rate and stressed syllables for all participants
@@ -96,58 +98,81 @@ output:
     + So... large and consistent effects of speech rate and stress on closure and vowel duration
 
 ---
+```{r, out.height=300}
+#| label: load-figs
+#| echo: false 
+#| warning: false 
+#| message: false
+
+knitr::include_graphics("./figures/fig_vwl_dur.png")
+knitr::include_graphics("./figures/fig_cl_dur.png")
+
+```
+---
   + **Effects of rate and stress on VOT**
-  
-        * VOT values tended to be slightly longer at slow speech rates and in unstressed syllables
-        * A series of ANOVAs revealed differences among participants as for the factors that affect VOT values:
-            * F1: stop type and stress
-            * M1: stop type, rate, rate x stress (only in unstressed syllables)
-            * M2: stop type
-        * The difference between short and long VOT was only statistically significant for unstressed stops for 1 of the 3 participants
-        * Stressed stops did not show longer VOT than unstressed stops for any speaker (one speaker exhibited the opposite trend)
-        * So... VOT values didn't seem to be significantly affected by rate and stress
-        * So... long VOT in WAS voiceless stops preceded by aspirated /s/ doesn't act as an acoustic cue to the stop consonant
+    + VOT values tended to be *slightly* longer at slow speech rates and in unstressed syllables
     
-    * Trade-offs (compensación, intercambio) between VOT and aspiration + closure duration
-        * A series of regression models
-            * Statistically negative correlations between preaspiration duration and closure duration for participants F1 and M2
-            * M1 similar, but not statistically significant
-        * New regression models, controlling for the manipulated factors (they add them as covariates, is it the same as fixed effects?)
-            * All speakers showed statistically negative relationships between VOT values and preaspiration + closure duration
-                * No entiendo porq no hacen directamente esto
-        * So... quite consistent negative relationship between VOT and preaspiration and closure duration -> This negaative correlation meets the predictions of the coarticulatory account (of the occurrance of postaspiration in WAS voiceless stops)
-        * In agreement with a coarticulatory account of postaspiration in WAS voiceless stops, they found statistical evidence of trade-offs between VOT and preaspiration and closure durations - Clearly observed for 2 of the 3 speakers (F1 and M2) when only the main predictor was included; clearly observed for all speakers when the manipulated factors were controlled for 
+    + Differences among participants as for the factors that affect VOT values (see Table 1)
 
+    + Stressed stops did not show longer VOT than unstressed stops for any speaker
+    
+    + So... VOT values did not seem to be significantly affected by rate and stress
 
+```{r}
+#| label: load-table
+#| echo: false 
+#| warning: false 
+#| message: false
 
-
-
-
-
+knitr::include_graphics("./figures/tbl_stress_rate_vot.png")
+```
 
 ---
-
-+ Spanish speakers **do perceive stress** in reporting sentences **&rarr;** Stress can be perceived **in the absence of pitch accents and vowel reduction patterns**
-+ Cues to stress depend on vowel type
-+ Perception of stress is based on a **cluster of cues**, mainly duration and overall intensity. 
-+ Importantly, cues to stress **depend on vowel type** and their weights changed according to the vowel:
-      + **[a]**
-        + main cue = duration
-        + when duration cues are ambiguous, then intensity
-        + both duration and intensity contribute to the perception in an additive manner
-      + **[i]**
-        + main cue = overall intensity
-        + they do not rely on duration, even when intensity cues were ambiguous
-        + no additive relationship between intensity and duration
-+ Spectral tilt had no effects
+  + **Trade-offs between VOT and aspiration + closure duration**
+    + First analysis (main predictor)
+        + Statistically negative correlations between preaspiration duration and closure duration for participants F1 and M2
+        + M1 similar, but not statistically significant
+        
+    + Second analysis (main predictor + covariates)
+      + Statistically negative relationships between VOT values and preaspiration + closure duration for all participants
+      
+    + So... *quite consistent* negative relationship between VOT and preaspiration and closure duration 
 
 ---
-# Some discussion questions
-+ What might explain the differential perception of stress contrast depending on vowel type ([a] vs. [i])?
-+ We can consider this study as a continuation of Ortega-Llebaria and Prieto (underreview?, 2009?) (discussed in the lit. review). What similarities and/or differences do the authors find regarding duration and intensity cues in the production and perception patterns?
-+ What are your main takeaways of this study? 
-+ What did you (dis)like about this study?
-+ Why is this study important? 
-+ How do the findings in this study contribute to our knowledge of stress perception/production?
+```{r, out.width="590px", fig.align='center'}
+#| label: load-fig
+#| echo: false 
+#| warning: false 
+#| message: false
 
-<br/>
+knitr::include_graphics("./figures/fig_trade_off.png")
+```
+
+---
+# Discussion
+  + Let's go back to the main RQ: Are aspirated stops in WAS result from a coarticulatory process or from a segmental rule?
+    + IF from coarticulatory process: 
+        + shorter VOT in unstressed syllables and faster speech rates, 
+        + positively correlated with speech rate, 
+        + trade-offs between VOT and preaspiration and closure durations
+    + IF from segmental rule: 
+        + longer VOT in stressed syllables and slower speech rates, 
+        + negatively correlated with speech rate, 
+        + NO trade-offs
+
+  + .black[Question]: So, coarticulatory process or segmental rule?
+
+---
+  + Postaspiration in WAS [h + voiceless stop] clusters is the result of extensive articulatory overlap between [h] and the upcoming voiceless stops
+  
+  + The articulatory overlap account can also explain...
+      + variation in pre- and postaspiration in WAS [h + voiceless stop] clusters 
+      + differences between WAS and other /s/-aspirating dialects
+  
+  + However.... it cannot account for the lengthening of the voiceless stops when preceded by [h], compared to other contexts **&rarr;** Glottal gesture corresponding to [h]? 2 gestural mechanisms:
+        1.  Realignment of the [h] devoicing gesture with respect to the onset of the supraglottal gesture in upcoming consonants
+        2. Lengthening of the supraglottal gesture in upcoming consonants, possibly as a compensation for the realignment mechanism, to preserve the prosodic properties of the affected syllable
+
+.black[Some questions]: 
+  + What are your main takeaways of this study? 
+  + What did you (dis)like about this study?

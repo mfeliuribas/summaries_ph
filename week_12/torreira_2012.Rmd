@@ -8,65 +8,125 @@ output:
   xaringan::moon_reader:
     css: [default, rutgers, rutgers-fonts]
 ---
-# Summary 
+# Introduction 
 
-+ **General topic**: Perception of stress among Spanish monolinguals
-+ **More specific**: The acoustic cues and cue-interaction that Castilian Spanish speakers use to perceive primary stress in unaccented contexts
++ Phenomenon under investigation: /s/-aspiration
 
----
-# Summary 
++ Aspirated [s] is found in many varieties of Spanish **&rarr;** Western Andalusian Spanish (WAS)
 
-+ **General topic**: Perception of stress among Spanish monolinguals
-+ **More specific**: The acoustic cues and cue-interaction that Castilian Spanish speakers use to perceive primary stress in unaccented contexts
-
-<br/>
-
-# Some key concepts
-
-+ Primary vs Secondary stress
-+ Accented vs Unaccented contexts
-+ Prosodic/Prominence hierarchy
-+ Duration
-+ Intensity
-+ Spectral tilt
++ Simple segmental rule: /s/ > [h] **&rarr;** .black[Question]: Is this rule representative of WAS? Why?
 
 ---
-# Previous studies
-+ What kind of studies are described in the background literature? How do they inform the present study?
-+ What have previous studies on the perception of word stress found?
-+ What is novel about the present study?
+# Introduction 
+
++ Phenomenon under investigation: /s/-aspiration
+
++ Aspirated [s] is found in many varieties of Spanish **&rarr;** Western Andalusian Spanish (WAS)
+
++ Simple segmental rule: /s/ > [h] **&rarr;** .black[Question]: Is this rule representative of WAS? Why?
+    + This description is 'too simplistic'; there is a lot of variation:
+      + It can be elided in utterance-final position
+      + It is usually heard in word-final position before a vowel
+      + It is coarticulated in different ways with the upcoming consonant (in preconsonantal position):
+          + Gemination (in front of nasals, laterals, and other fricatives)
+          + Long voiced fricatives (in front of voiced stops)
+          
++ Torreira (2007a) and Torreira (2007b)
+    + Realization of [h + voiceless stop] clusters with long pre- and postaspirated stop clusters as a dialect-specific feature of WAS
 
 ---
-# Previous studies
-+ What kind of studies are described in the background literature? How do they inform the present study?
-+ What have previous studies on the perception of word stress found?
-+ What is novel about the present study?
-
-<br/>
-
 # The present study
-+ 4 main goals:
-  + Perception of stress contrast in unaccented contexts (no pitch accent + no vowel reduction)
-  + Interaction between duration and overall intensity?
-  + Same weigh for every cue? Same as production?
-  + More reliability on overall intensity than on spectral tilt?
++ RQs (I propose, not explicitly stated):
+
+  + Are aspirated stops in WAS result from a coarticulatory process or from a segmental rule?
+  
+    + What are the effects of speech rate and stress patterns on closure and vowel duration?
+    
+    + What are the effects of speech rate and stress patterns on VOT?
+    
+    + Is there a negative or positive correlation between VOT and the sum of aspiration and closure duration?
 
 ---
 # Methods
-+ **Participants**: 20 Castilian Spanish monolinguals
-+ **Task**: listen and identify oxytone (agudas) words in unaccented sentences
-+ **Stimuli**: 175 aural sentences **&rarr;** "Hola - saluda X contenta"
-  + **Target words**: *mama-mamá* and *mimi-mimí*
-  + Target words varied in **two bi-dimensional paroxytone-oxytone continua**: 
-      + What does it mean?
-      + How do the authors manipulate their stimuli? 
-      + Could they have done it differently?
-      + Why do they do it?
-      + Why did they specifically choose duration, overall intensity, and spectral tilt as potential cues to stress?
-      + Why do you think that the authors focus on the vowels [a] and [i]? Why unaccented contexts?
++ **Participants**: 3 native speakers of WAS (from Cádiz)
+
++ **Task**: Read some sentences
+
++ **Stimuli**: 60 sentences **&rarr;** "Digo X para mí"
+  + **Target words**: 
+      + Bisyllabic verbs with infinitive forms ending in -ascar (*tascar*, *mascar*, *cascar*), -aspar (*raspar*), -astar (*pastar*, *bastar*, *gastar*)
+      + 2 forms / stress patterns: *raspo* vs *raspó* **&rarr;** Lexical stress (paroxytone vs oxytone)
+      + [h + voiceless stop] cluster **&rarr;** .black[Question]: Why did the author focus on this cluster?
+      + 2 speech rates
+      
+  + 60 sentences x 2 different speed rates = 120 sentences per speaker
+  
+  + .black[Question]: Why do they decide to manipulate the speech rate and the stress placement?
+
+---
+# Measurements
+  + Voice Onset Time
+  
+  + Vowel Duration
+  
+  + Closure Duration
+  
+  + Preaspiration duration
+
+
+# Analysis
+  + A total of 328 sentences were included in the analysis
+  
+  + Each speaker was analyzed separately
 
 ---
 # Main results
+  + **VOT values**
+    + Differences among participants
+    
+    + M1 had longer VOTs than the other speakers, especially for [t]
+    
+    + F1 and M2 had shorter VOTs than M1
+    
+    + VOT values were higher on average than those reported for Andalusian unaspirated stops (Torreira, 2007a), BUT a "significant number" was short compared to other languages that use postaspiration as a contrastive cue in stops (e.g., Thai)
+
+  + **Assessment of speech rate and stress pattern**
+    + Vowel and closure duration were longer in slow speech rate and stressed syllables for all participants
+    
+    + So... large and consistent effects of speech rate and stress on closure and vowel duration
+
+---
+  + **Effects of rate and stress on VOT**
+  
+        * VOT values tended to be slightly longer at slow speech rates and in unstressed syllables
+        * A series of ANOVAs revealed differences among participants as for the factors that affect VOT values:
+            * F1: stop type and stress
+            * M1: stop type, rate, rate x stress (only in unstressed syllables)
+            * M2: stop type
+        * The difference between short and long VOT was only statistically significant for unstressed stops for 1 of the 3 participants
+        * Stressed stops did not show longer VOT than unstressed stops for any speaker (one speaker exhibited the opposite trend)
+        * So... VOT values didn't seem to be significantly affected by rate and stress
+        * So... long VOT in WAS voiceless stops preceded by aspirated /s/ doesn't act as an acoustic cue to the stop consonant
+    
+    * Trade-offs (compensación, intercambio) between VOT and aspiration + closure duration
+        * A series of regression models
+            * Statistically negative correlations between preaspiration duration and closure duration for participants F1 and M2
+            * M1 similar, but not statistically significant
+        * New regression models, controlling for the manipulated factors (they add them as covariates, is it the same as fixed effects?)
+            * All speakers showed statistically negative relationships between VOT values and preaspiration + closure duration
+                * No entiendo porq no hacen directamente esto
+        * So... quite consistent negative relationship between VOT and preaspiration and closure duration -> This negaative correlation meets the predictions of the coarticulatory account (of the occurrance of postaspiration in WAS voiceless stops)
+        * In agreement with a coarticulatory account of postaspiration in WAS voiceless stops, they found statistical evidence of trade-offs between VOT and preaspiration and closure durations - Clearly observed for 2 of the 3 speakers (F1 and M2) when only the main predictor was included; clearly observed for all speakers when the manipulated factors were controlled for 
+
+
+
+
+
+
+
+
+---
+
 + Spanish speakers **do perceive stress** in reporting sentences **&rarr;** Stress can be perceived **in the absence of pitch accents and vowel reduction patterns**
 + Cues to stress depend on vowel type
 + Perception of stress is based on a **cluster of cues**, mainly duration and overall intensity. 
@@ -89,3 +149,5 @@ output:
 + What did you (dis)like about this study?
 + Why is this study important? 
 + How do the findings in this study contribute to our knowledge of stress perception/production?
+
+<br/>

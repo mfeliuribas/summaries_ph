@@ -2,7 +2,7 @@
 title: "Summaries week 10"
 subtitle: "Phonetics and Phonology of Bilingualism"
 author: "Meritxell Feliu Ribas"
-date: "2024-03-28"
+date: "2024-04-17"
 output: pdf_document
 ---
 
@@ -14,13 +14,13 @@ This is a chapter from the book *Key Issues in the Teaching of Spanish Pronuncia
 
 
 # Reading 2: Amengual (2016)
-Write here
+Amengual (2016) explores the variability in the production of the tap-trill contrast by 40 Spanish heritage speakers (Spanish vs English dominant) and 20 upper-intermediate L2 learners of Spanish in a read-aloud task. The results indicated a difference among participants: English-dominant heritage speakers and L2 learners produced more non-canonical phonemic trills (one or zero occlusions), compared to Spanish-dominant heritage speakers (2 or more occlusions). In addition, all heritage speakers preferred the production of the 'true trap', followed by 'approximant trap' and 'perceptual trap'. This pattern was different for L2 learners, who favored the 'approximant trap'. Each group produced longer phonemic trills than traps, which suggests that the tap-trill contrast is realized using segmental duration. This study adds evidence to the variability in the production of the Spanish taps and trills and the heterogeneity that characterizes the heritage speaker group.
 
 **Reference:** Amengual, M. (2016). “Acoustic correlates of the Spanish tap-trill contrast: Heritage and L2 Spanish speakers". In: *Heritage Language Journal* 13.2, pp. 88–112.
 
 
 
 # Reading 3: Amengual (2018)
-Write here
+Amengual (2018) investigates the effects of language dominance, language mode, and syllable position on the production of voiced lateral approximants in both Spanish and English by 40 Spanish heritage speakers and 20 L2 learners of Spanish in a read-aloud task. In addition, the immigrant generation was also considered. All participants produced the Spanish and English laterals with different degrees of velarization, being the /l/ in English more velarized, especialy in word-final position. Moreover, language mode also had an effect on the production of the lateral: in bilingual mode, participants produced less target-like /l/ in their non-dominant language. These results add evidence to the effects of language dominance (age of acquisition and proficiency) on the acquisition of sounds, and suggest that both early and late bilinguals and L2 learners can form separate phonetic categories for the voiced lateral approximants in Spanish and English. 
 
 **Reference:** Amengual, M. (2018). “Asymmetrical interlingual influence in the production of Spanish and English laterals as a result of competing activation in bilingual language processing". In: *Journal of Phonetics* 69, pp. 12–28.
